@@ -1,0 +1,794 @@
+SNo,Name,Hospital Name,Registration Number,Email Id,Mobile Number,Designation,City,Pin Code,Address,Specialization
+1,Dr. Nitin Goel,Suyash Hospital,1080/2007,ngoel@live.in,9300030000,Medical Surgeon,Raipur,492001,"Villa129,Maruti Life Style ,Near Singapur City
+Kota Road Raipur",Urologist
+2,Dr. Abhinav Shukla,Suyash Hospital,4281/2012,shuklaabhinav60@gmail.com,9755600111,Medical Surgeon,Raipur,492001,"Plot-138,Trimurti Chowk Sundra Nagar Raipur
+CG",General Surgeon
+3,Dr. Rudra Prasad,Suyash Hospital,4691/2013,sahudr.rudra@ymail.com,8874395575,Medical Surgeon,Raipur,492001,"Telaimunda,Ramanujnagar Surajpur CG 497331",General Physician
+4,Dr. Romesh Sharma,Suyash Hosptial,3972/2012,doctor_romesh@redIfmail.com,9753377525,Medical Surgeon,Raipur,492001,Hotal babylon in VIP Road Raipur CG 492001,Intensivist
+5,Dr. Avinash Chaturvedi,Suyash Hospital,4914/2013,dravinash100@gmail.com,9424970291,Medical Surgeon,Raipur,492001,Santi Vihar Colony Raipur CG,Pulmonologist
+6,Dr.Vaishali Bansode,Suyash Hospital,8440/2018,drvaishali2401@gmail.com,7509795666,Medical Surgeon,Raipur,492001,Near Old Power House Gate Raipur CG,General Physician
+7,Dr Raju Kumar Manhare,"Shree Dani Care Multispeciality Hospital
+Sejbahar /Dunda Raipur",CGMC/7111/2017,raj.k.manhare@gmail.com,8817654380,Medical Assistant Surgeon,Raipur,492015,Mujgahan Sejbahar Raipur Chhattisgarh,General Physician
+8,Ninder singh chawla,Shreeharikishan hospital,3639/2011,ninderchawla@gmail.com,9827377777,Private Practice,Raipur,492001,Ramnagar chowk,Orthopaedist
+9,Narendra Agrawal,Dermatologist & Sexolgist,CGMC/965/2007,agrawalskincare12@gmail.com,9425213139,Private Practice,Raipur,492001,"Near city kotwali, Chottapara Road Raipur",Dermatologist
+10,DR PRITI GUPTA,Eye and Ent Hospital,CGMC175/04,Pritigupta1905@gmail.com,9425505569,Doctor,Raipur,492001,"Eye and ent Hospital, opposite new bus stand,
+Pandri, Raipur",Opthalmologist
+11,Dr Digvijay Singh,"Shri Balaji Hospital, Dubey Colony,
+Mowa, Raipur",CGMC 237/04,DRDIGGI@YAHOO.COM,9301703131,Medical Surgeon,Raipur,492001,"Sr MIG 17, Sector 4, Deendayal Upadhyay
+Nagar, Raipur, CG",ENT Specialist
+12,Dr Nitin jain,jain hospital,3632,drnitinjain123@gmail.com,7974445019,Hospital,Raipur,492001,devendra nagar raipur,Anesthesiologist
+13,Dr achal Tiwari,Tiwari heart care and diagnostic centre,Cgmc/1189/2007,dr_achal@yahoo.com,9329798983,Clinic,Raipur,492001,G 12 heera arcade New bus stand Raipur,Cardiologist
+14,Dr R L Khare,Shree Mahamaya Clinic,CGMC 64/2003,drrlkrai@gmail.com,9926118401,Private Practice,Raipur,492001,"Near Purani Basti thana, Kankalipara road,
+Raipur",General Physician
+15,Dr Shailendra Ruprela,"Dr Ruprela’S NMS Diagnostics n
+imaging",511/2006,drshailendra08@gmail.com,9713355533,Doctor,Raipur,492001,"908,ruprela marg , jagriti nagar , bilaspur road",Radiolost
+16,Dr. SANDEEP JAIN,Dr. SANDEEP JAIN CLINIC,CGMC/966/2007,gr8drsandeepjain@gmail.com,9425211011,Private Practice,Raipur,492001,"Anand Tower , Gandhi Chowk",General Physician
+17,Dr Arun Agrawalla,Muskan Clinic,CGMC642/2006,arun_agrawalla@yahoo.com,9302302517,Private Practice,Raipur,492001,"In front of Muktidham, paras nagar, Devendra
+nagar",Pediatrician
+18,"DR SHAILENDRA
+KESHARWANI",SANJEEVAN HOSPITAL,CG MC 2079/2008,sanjeevanhospital94@gmail.com,9425202084,Private Practice,Raipur,492001,"OPP.POSTAL COLONY & SAHU COMPLEX ,
+SANJAY NAGAR, TIKRAPARA, RAIPUR",ENT Speciality
+19,Chandra Vikas Rathore,Investment Clinic,CGMC 3438,drcvrathore@gmail.com,8889578884,Private Practice,Raipur,492001,"B9 Krishna Landmark Opposite CSEB Training
+Center Kota Road Gudhiyari Raipur Chhattisgarh",Pediatrician
+,,,,,,,,,,
+20,Dr Om Prakash Lekhwani,Shubham Hospital Avm Prasuti Kendra,CGMC 1283/2008,dr.oplekhwani9@gmail.com,9827197879,Medical Surgeon,Raipur,492009,"Shukrawari Bazaar , Gudiyari, Raipur (C.G)",Internal Medicine
+21,Dr Vikas Kumar Mishra,SHASHWT HOSPITAL,CGMC 621/2006,mishra.vikaskumar3001@gmail.com,9753119900,Medical Surgeon,Raipur,492001,"Opposite TmberBhawan, Devendra Nagar,
+Raipur",Opthalmologist
+22,Dr. Gaurav Ahluwalia,Ahluwalia Hospital,CGMC2228/2009,info@ahluwaliahospital.com,9610140502,Hospital,Raipur,492001,"Ahluwalia Hospital, Nemichand Gali, Ramsagar
+Pata, Near Prabhat Cinema.",Neurologist
+23,Dr Rakesh Gupta,Eye& ENT Hospital,CGMC 174/2004,eye2ent@gmail.com,9424223860,Hospital,Raipur,492001,"opp new bus stand RCTowers first floor Raipur
+CG",ENT Specialist
+24,Dr Satish Kumar Harne,Gitanjali Hi Tech Diagnostic Centre,826 / C G Medical Council,satish.harne.gitanjali@gmail.com,9329101324,Clinic,Raipur,492001,"Dr Satish Kumar Harne, Krishna Complex,
+kutchery chowk, Raipur (C.G.)",Radiologist
+25,Dr Ritu Jain,Shri Mahaveer Hospital,CGMC 2972/2010,bijaleejain@yahoo.com,9200000000,Doctor,Raipur,492001,"Bhagat Singh Chowk, In front of Pahuna, Civil
+Lines, Raipur, CG- 492001",Gynaecologist
+26,Dr Ajay Kumar Mishra,"NH MMI Narayana Superspeciality
+Hospital",CGMC - 8297,dr.ajaymishra@gmail.com,9447729028,Doctor,Raipur,492001,"NH MMI Hospital, Raipur",General Physician
+27,"Dr. DEVPRAKASH
+DEWANGAN","N.K.D. HOSPITAL NAD MATERNITY
+CENTRE",CGMC 4525/2013,Drdpdewangan@gmail.com,7738208392,Hospital,Raipur,493221,"N.K.D. HOSPITAL AND MATERNITY
+CENTRE",Orthopaedist
+28,"DR HASMUKH KUMAR
+ANUM",BA LAXMI HEALTH CARE CLINIC,CG MCI 2617/2009,drhkanum2@gmail.com,9425513233,Clinic,Raipur,492001,"BAIJNATHPARA, CITY KOTWALI ROAD,
+NEAR CHHOTAPARA MASJID",General Physician
+29,Ankit sharma,AIIMS,Cgmc 7971,ankitsharma12289@gmail.com,7024965588,Doctor,Raipur,492013,L2 krishna nagar daganiya raipur,Psychiatrist
+30,Dr yashwant chandravanshi,Dks SSP hospital raipur,CGMC-8969,Yashchandra971989@gmail.com,8602661193,Doctor,Raipur,492001,"Near kali mandir,sector-3, gali no-2,prof.colony
+raipur cg",Pediatrician
+31,SANJAY VARMA,RS Polyclinic and Diagnostic Centre,CGMC 1722/2008,ROOPALISANJAY@HOTMAIL.COM,9826136022,Doctor,Raipur,492099,Near Post Office Tatibandh Raipur,General Physician
+32,Dr Devavrat Vaishnav,Self,CGMC 7475/2017,vdev2890@gmail.com,6263227253,Private Practice,Raipur,492012,"M10 Shivaji park sardhoo Raipur Vidhan sabha
+road",Anesthesilogist
+33,Arun Madharia,Gayatri Hospital,2670,arunmadharia@gmail.com,9827136003,mbbs ms(ortho),Raipur,492010,gayatri hospital rohinipuram raipur cg,Orthopaedist
+34,Saurabh Goel,MD Hospital,CGMC9212/2019,goelsauabh89@gmail.com,9594992429,MD (Medicine) Physician,Raipur,492001,"358, main road samta colony raipur",General Physician
+35,Dr SK Goel,MD Hospital,CGMC/577/06,m.d.hospitalraipur@gmail.com,9993840995,MD (Physician),Raipur,492001,"358, main road samta colony raipur",General Physician
+36,Dr Ankit Madharia,Gayatri Hospital,CGMS/7951/2018,ankitmadharia@gmail.com,9893926003,mbbs ms(ortho),Raipur,492001,gayatri hospital rohinipuram raipur cg,Orthopaedist
+37,Dr KP Sarbhai,Sarbhai Polyclinic,CGMC 1166,Sarbhai@yahoo.co.in,9329102532,pediatrician,Raipur,492013,"Sarbhai Polyclinic mahadevghat road Danganiya
+Raipur",Pediatrician
+38,Dr Hari Krishna Pradhan,Shri Jagriti Hospital,CGMC 1419/2008,dr.harikrishna@gmail.com,9165000276,MD (medicine),Raipur,492001,shri jagriti hospital raipur,General Physician
+39,Dr Kamlesh Agrawal,Om Hospital,CGMC 402/05,drkamleshagrawal@gmail.com,9827162333,Plstic Surgeon,Raipur,492001,om hospital raipur,Plastic Surgeon
+,,,,,,,,,,
+40,Dr Pravin Rustimrao borde,New Raipura Hospital,CGMC 8573/2018,bordepravin26@gmail.com,8178263530,medical officer,Raipur,492001,New Raipura Hospital Mahadevghat road raipur,Neurologist
+41,Dr Ashok Mohan Sahai,pvt doctor,CGMC 929/2007,drashoksahai@gmail.com,9329107447,pvt doctor,Raipur,492001,Nandi chowk tikarapara raipur,Pediatrician
+42,Dr. Manoj Lahoti,Suyash Hospital,CGMC7272/2017,manojlahoti242gmail.com,9826851120,Medical Surgeon,Raipur,492001,"Flate Nob 103 Block D 1 VIP Krishana Society
+Khamardhih Kachna Raipur CG",Gastroenterologist
+43,Dr Vandana Kachhwaha,"Urban community health center (UCHC)
+birgaon Transport Nagar",CGMC-1550/2008,drvandana77@gmail.com,9981732115,practicing pathologist,Raipur,492010,Hno 409 sunder nagar near fooball house,Pathologist
+44,"Dr AKHILESH CHARAN
+DUBE",SHRI RAM HOSPITAL DAGANIYA,CGMC 1727,akhileshcharandube@gmail.com,9009998333,Hospital,Raipur,492013,"SHRI RAM HOSPITAL DAGANIYA
+MAHADEOGHAT ROAD RAIPUR",Orthopaedist
+45,Dr. Vikrant Nimbhorkar,Suyash Hospital,2009/04/1756,suyashhospital.raipur@gmail.com,8770727247,Medical Surgeon,Raipur,492001,"Flat No 602/J Block, Marti Life Style ,Atari
+,Raipur CG-492099",Critical Care Specialist
+46,Ayush Bhatnagar,Private Practice,2018040963,ayushbha@gmail.com,9730489705,Medical Surgeon,Raipur,492007,"B-201, Ashoka Kohinoor, Ashoka Ratan
+Campus, Vidhan Sabha Road, Raipur",General Physician
+47,DR. ANUJ SAHU,LIFE LINE CLINIC,10945,anuj1090@gmail.com,7987630346,Doctor,"Parsada (
+Hasoud )",495661,Parsada chowk ...mahanadi road..tehsil,General Physician
+48,Dr Kedar Agrawal,Agrasen Hospital,TRAIP83066,Dr_kedar@yahho.com,9827121555,MS MCH (Ortho),Raipur,492001,"opp krishna Talkies ramnath bhimsen bhawan
+road samta colony raipur",Orthopaedist
+49,Dr Tarachand phatnani,Self,6497,tarachandphatnani@gmail.com,"9131456151,
+9425511987",General Practisioner,Raipur,492001,"Adarsh bazar shop no A-1 near vivekanand
+ashram GE Road Raipur",General Physician
+50,Dr Anjana Kumar,Urban CHC Birgaon,CGMC 1550/2008,anjanakumardr@gmail.com,9685869576,MBBS MD,Raipur,493221,Urban CHC Birgaon raipur,General Physician
+51,Dr Ankit Sahai,Self,CGMC 10652/2020,sahaiankit30@gmail.com,7000628386,Doctor,Raipur,492001,c-279 vallabh nagar ring road no 1 raipur,Haematologist
+52,Dr Prajwal Soni,Private Practice,CGMC 186/2007,drprajwalsoni@gmail.com,9827189170,Proprietor,Raipur,493661,"Bade urla, raipur road abhanpur,raipur",General Physician
+53,Dr Prakash Chand Adwani,Adwani Clinic,CGMC 898/2007 IMC 12421,drpcadwani@gmail.com,98271901070,medical officer,Raipur,492001,"Dr p c adwani clinic hno.-E2/15,sector7 new
+rajendra nagar raipur",General Physician
+54,Dr Manoj Kumar Burman,Self,CGMC 188/04,dr.manojburman@gmail.com,9425213416,Doctor,Raipur,492001,Professor colony krishak nagar jora raipur,General Physician
+55,Dr Arjun Sharma,Self,CGMC 4519/2013,aarjush@gmail.com,9827152207,Doctor,Raipur,492014,F-5 Shivani park saddu raopur,General Surgeon
+56,Dr BK Chandrawanshi,CHC,CGMC 3030/2010,gyanisahu81@gmail.com,7049787446,MBBS,Raipur,493441,Railway Station Road Balajipuram Aarang,General Physician
+57,Dr Sanjay Kumar,JNM Medical College Campus,CGMC 1308/2008,singhkumarsanjay618@gmail.com,9826454390,Doctor,Raipur,492001,"F-26, Block-5 Pt. JNM Medical College Campus
+Raipur",General Physician
+58,Dr Shyam Sharma,Self,CGMC 9433/2019,drshyamsharma1959@gmail.com,7723084913,Doctor,Raipur,492002,"304, A A Golden Tower Amlidih Raipur",General Physician
+59,Dr Sandhya Rao,Self,CGMC 0136/2004,raosandhyadoctor@yahoo.co.uk/lakshay29may@gm,7415656565,Doctor,Raipur,492001,"Deputy director of health n-2 anupam nagar B/H
+TV tower near anupam nagar masjid raipur",General Physician
+,,,,,,,,,,
+60,Dr Prashant Mishra,Private Practice,CGMC 7291/2017,prashant15391@gmail.com,7987779101,MBBS,Raipur,492013,S4/495 Shanti vihar colony danganiya raipur,General Physician
+61,Dr K S Ajamani,Shri Krishna Hospital,CGMC 387/2005,coolk2704@gmail.com,8827492300,medical officer,Raipur,492001,"C-32 Behind shree krishna hospital vardhaman
+colony new rajendra nagar",General Physician
+62,Umesh Suna,Suna Hospital Tilda,2611 /2009 CGMC,umeshsuna1@gmail.com,8225082585,Doctor,Raipur,493114,Krishna Nagar Tilda,General Surgeon
+63,DR. ROHIT KANOI,SHASHWAT HOSPITAL,CGMC/703/2007,rohitkanoi@gmail.com,9302313631,Doctor,Raipur,492001,"SHASHWAT HOSPITAL, JHANDA CHOWK,
+BADHAI PARA, RAIPUR",Orthopaedist
+64,Sunita Kanoi,SHASHWAT HOSPITAL,CGMC3439/2011,sunitakanoiagrawal@gmail.com,9303133631,Doctor,Raipur,492002,"SHASHWAT HOSPITAL, JHANDA CHOWK,
+BADHAI PARA, RAIPUR",Gynaecologist
+65,Dr Ashish Dubey,MMaleHospital,CGMC 3760/2011,Admmhorsp@gmail.com,9425202393,Physician Consultant,Raipur,492003,MMaleHospital Jailaxmi Complex Fafadih,General Physician
+66,Dr.Kailash Kumar Sahare,"CHC, Rajim.",CGMC/2531/2009,kailashsaharey@gmail.com,9340275790,Medical Assistant Surgeon,Raipur,492006,"Dr.K.K.Sahare clinic,Amlidih, narmadeshwar
+shiv mandir road,Raipur",General Physician
+67,Dr ROOPALI VARMA,"RS POLYCLINIC & DIAGNOSTIC
+CENTRE",CGMC/1723/2008,rspoly1@gmail.com,9826077576,Private Practice,Raipur,492099,"RS POLYCLINIC AND DIAGNOSTIC
+CENTRE",Obstetrician
+68,0,SriMaa Sarada Arogyadham,CGMC 450/2005,dr.ashajain@smsaraipur.co.in,9425202550,Private Practice,Raipur,492013,"Agrasen Nagar, Raipura",Gynaecologist
+69,Dr Raza Ullah Khan,Dr Raza Khan Clinic,CGMC 30921,razaullahkhan20022002@gmail.com,8109859000,M.O Physician,Raipur,492001,Dr raza Ullah Khan Clinic Baijnathpara,General Physician
+70,Dr Roshan Kumar,Private Practice,CGMC 82229,dr.roshan0108@gmail.com,6265659455,MBBS,Raipur,492001,Near Stadium Kora Raipur,Orthopaedist
+71,Dr Kedarnath Dewangan,Private Practice,CGMC 8320/2018,kedarnathdewangan88@gmail.com,7223065604,MD Respiratory Medicine,Raipur,492001,"Vrinda Trust Line Beside Raj Medical Lodhipara
+Chowk Raipur",Pulmonologist
+72,AMIT KUMAR BHAGAT,Pal Clinic,CG2869,pareshnathpal@gmail.com,9827167098,physician,Raipur,492002,11/9 gurugovind nagar pandri raipur,General Physician
+73,DR SUMANA PAL,Pal Clinic,CG2870,paldrsumana@gmail.com,9575127788,physician,Raipur,492003,"Pal Clinic C-4 Shyam Market Jeevan Beema Marg
+pandri Raipur",Dermatologist
+74,AMIT KUMAR BHAGAT,DISTRICT HOSPITAL BIRGOV,8553,amitbhagat423@gmail.com,7898404733,MEDICAL OFFICER,Raipur,492001,TRANSPORT NAGAR BIRGAON,General Physician
+75,DR NEELAM SAHAI,DR SAHAY CLINIC TIKRAPARA,CGMC/217/04,drneelamsahai1959@gmail.com,7999291993,DOCTOR,Raipur,492001,RAIPUR TIKARAPARA,Haematologist
+76,DR SEEMA RATHI,RATHI CLINIC,CGMC3937/2012,RAJESH173RATHI@GMAIL.COM,9981075994,MBBS,Raipur,492013,"BEHIND HN 372 STREET NO 27 SUNDAR NAGAR
+RAIPUR",General Physician
+77,Dr Lokendra Kumar sahu,camp id,CGMC/8952/2019,lokendra26@gmail.com,9711100685,MD Physician,Durg,491001,"ward no. 440/43 adarsh nagar behind sahgal auto
+centre durg",General Physician
+78,Dr Nidhi Atriwal,camp id,CGMC/5743/2014,,9329121488,MBBS,Raipur,492001,325 Vrindavan samta colony main road raipur,General Physician
+79,Dr Sudam Das,Self,CGMC 4747/2013,dr.sudam09@gmail.com,8827588509,MD Physician,Raipur,492002,Raipur,General Physician
+,,,,,,,,,,
+80,Dr Santosh Sahu,Navodaya Hospital,CGMC 1190,dr.santosh.sahu@gmail.com,9826372876,Sr Consultant,Raipur,492013,"Navodaya Hospital Manmsapuram Chaurasiya
+Colony Mathpuraina Santoshi nagar Raipur",Orthopaedist
+81,Dr Ravindra Singh Chandrakar,District Hospital Raipur,CGMC/2741/2009,CAMP ID,8109347679,Medical Officer,Raipur,492001,Raipur,General Physician
+82,Dr Supriti Sharma,Shree Medishine Hospital,CGMC/2500/2009,supriti_sharma@yahoo.com,7389936602,HOD Anesthesiology,Raipur,492002,"Avenue 144, A 506, New rajendra Nagar Amlidih
+Raipur",Dermatologist
+83,Dr Susheel Sharma,Shree Medishine Hospital,CGMC/6084/2015,arya_orth@yahoo.co.in,9827115715,Director,Raipur,492003,"Avenue 144, A 506, New rajendra Nagar Amlidih
+Raipur",Orthopaedist
+84,Dr Sonam,District Hospital,CGMC/10065/2020,sonamnetam12@gmail.com,8815562544,Medical Officer,Raipur,491226,"C/O Vinay Pratap Singh Dhruw Hosue No. 493 Old
+Dhamtari Road Near Shiv Mandir Krishna Nagar 2
+Raipur 492013",General Physician
+85,Dr Pushpa Sontake,CHC Birgaon Raipur,CGMC/8533/2018,pushpasontake@gmail.com,9425554888,Medical Officer,Raipur,492001,CHC Birgaon Raipur,General Physician
+86,Ninder singh chawla,Shreeharikishan hospital,CGMC/3639/2011,ninderchawla@gmail.com,9827377777,Private Practice,RAIPUR,492001,Ramnagar chowk,
+87,DR AKHILESHWAR PD Dhirhi,GENERAL PHYSICIAN,CGMC/8166/2018,akhilmunchu31@gmail.com,9685848316,Medical Officer,RAIPUR,492001,muwa raipur,General Physician
+88,Dr Satyanarayan Pandey,PHC,CGMC/665/2007,satishpandey13210@gmail.com,9425213210,Medical Officer,RAIPUR,492001,CAMP,General Physician
+89,Dr Neha Agrawal,PHC,CGMC/6001/2015,dr.neha21agrawal@gmail.com,9042487496,Medical Officer,RAIPUR,492001,CAMP,General Physician
+90,Dr Sameer Sonkar,NIT Dispensary,CGMC/697/2007,docsameer03@gmail.com,9039626824,Medical Officer,RAIPUR,492001,CAMP,General Physician
+91,Dr. Aishwarya thakre,Self Clinic,CGMC 12855/2022,AISHWARYATHAKRE14@GMAIL.COM,7000203255,Medical Officer,RAIPUR,492001,BADA ASHOK NAGAR GUDHYARI RAIPUR,Opthalmologist
+92,DR. GANI MOHAMMED KHAN,Self Clinic,CGMC3193/2010,ganimohammed1953@gmail.com,9754935456,Medical Officer,RAIPUR,492001,"JEEVAN BIMA MARG NEAR KHALSA SCHOOL
+KUTCHARY CHOUK RAIPUR",General Physician
+93,Dr. Vikas Adil,Dr. J.K. Adil hospital,CGMC 3374,vikasadil@gmail.com,9827985851,MBBS MS (Gen Surgery),Bhatapara,493118,Gandhi mandir ward bhatapara,General Surgeon
+94,Dr Mahesh Kesharwani,Aastha Clinic,CGMC 0957,drmaheshkesharwani@gmail.com,9039129486,Doctor,balodabazar,493332,Subhash chowk m.g. road balodabazar,General Physician
+95,Dr. Prakah kurre,C.H.C. Bilaigarh,CGMS SS/43496,drprakash0001@gmail.com,9691168111,Medical officer,Bhatgaw,493222,"H No 607 Kalimata chowk ward no
+15,Bhatgaw,bilaigarh,balodabazar",General Surgeon
+96,Dr. Bhansingh dhruw,Community health center,CGMC 13604,drbsdhruw@gmail.com,9977961169,Medical officer,pallari,493228,CHC pallari dist. Balodabazar,General Physician
+97,Dr Yogendra Kumar Verma,kilkari Children Hospital,CGMC 3461/2011,dr.yogendraverma75@gmail.com,9752396991,Paediatrician,Baloda Bazar,493332,Kilkari Children Hospital Baloda Bazar,Pediatrician
+98,Dr Dinesh Kumar Verma,Divya Nursing home,CGMC 3936,divyanursinghome@gmail.com,9926533266,MBBS,Baloda Bazar,493332,"Divya Nursing Home opposite SBI Golden
+Chowk Baloda Bazar",General Physician
+99,Dr Anjan Singh Chauhan,community Health Center,CGMC 5148/2014,anjansingh25@gmail.com,9009060545,Block Medical Officer,Baloda Bazar,493332,"Community Health Center Kasdol Dist Baloda
+Bazar",General Physician
+100,Dr Paras Nath Patel,community Health Center,CGMC 6403/2015,paraspatel145@gmail.com,8103655544,Block Medical Officer,Simga,493101,CHC Simga,General Physician
+101,Dr Arunim Singh,community Health Center,CGMC 7420/2017,arunimsingh03@gmail.com,"9650433969,
+7999449120",Medical Officer,Simga,493101,CHC Simga,General Physician
+,,,,,,,,,,
+102,Dr Ashok Kumar verma,Ayush Diagostic pathology Lab,CGMC 259/2004,drashokverma65@gmail.com,9977375711,Medical Officer,Baloda Bazar,493332,"Ayush Pathology Lab infront of chakrapani high
+school gate vaishnavcolony baloda bazar",General Physician
+103,Dr Surendra Kumar Janaradan,Ayush Diagostic pathology Lab,CGMC 7135/2017,coolsurent@gmail.com,8050951095,Medical Officer,Baloda Bazar,493332,yellowhouse behind colectorate,General Physician
+104,Dr Gajendra Mahilang,Child Care Hospital Bhatapara,CGMC 6243/2015,gmahilang@yahoo.com,9827110426,MD,Bhatapara,493118,Child Care Hospital Bhatapara,Child Specialist
+105,Dr Shashi Kumar Jaiswal,District Hospital Balodabazar,CGMC 5128/2014,jaiswalskh@gmail.com,9617880154,Medical Officer,Baloda Bazar,493332,District Hospital Balodabazar,Neurologist
+106,Dr Suresh Nihlani,SELF,CGMC 1594,nihlanisuresh@gmail.com,9827168820,Ortho-Surgeon,Bhatapara,493118,"Dhurandhar ward near pwd rest house goushala
+road",Orthopaedist
+107,Dr Gulshan Kumar Patel,CHC Lawan,CGMC 6922/2016,dr.gulshanpatel89@gmail.com,7805895292,Medical Officer,LAWAN,493526,CHC Lawan,General Physician
+108,Surendra Kumar Dibykar,Aadya Hospital,CGMC 3244/2011,surendradibykar@gmail.com,9752402929,PGMO Surgery,Kasdol,493335,"Charched road aadya hospital kasdol dist-
+balodabazar",General Physician
+109,Dr Pankaj Verma,CHC palari,CGMC 6051/2015,verma.pankaj135@gmail.com,9907111636,Medical Officer,Palari,493228,CHC Palari Dist- Balodabazar,General Surgeon
+110,Dr Hasanand Saheta,Astha Nursing Home,CGMC 4283,sahetahnQ@gmail.com,9827110433,MS ORTHO.,Bhatapara,493118,"Astha Nursing Home Munshi Smile Road
+Bhatapara",Orthopaedist
+111,Dr Krishna Kumar Sahu,Sahu Nursing Home,CGMC 6150/2015,drkrishnakumarsahu@gmail.com,9826400034,MBBS DOCTOR,Baloda Bazar,493332,"House no.158 ward no.15 bramhanparaMaleg
+road balodabazar",General Physician
+112,Dr. Rohit Bajpai,Bajpai Nursing Home,CGMC/2333/2009,bajpainursinghome@gmail.com,8965900555,MBBS D-Ortho,Baloda Bazar,493332,"Bajpai Nursing Home Ambedkar Chowk
+Balodabazar",Orthopaedist
+113,dr. shiv kumar,C.H.C. Hospital simga,CGMC 6919/2016,drgshiv1990@gmail.com,9755626650,Medical officer,Simga,493101,C.H.C. Hospital simga dist.balodabazar,General Physician
+114,dr. Chain singh paikara,C.H.C. Hospital Kasdol,CGMC 0133/04,dr.c.s.paikara@gmail.com,9755984146,Medical officer,Kasdol,493335,C.H.C. Hospital kasdol dist.balodabazar,General Physician
+115,dr. prashant verma,C.H.C. Hospital suhela,CGMC 7305/2017,Drprashantv17@gmail.com,7999641585,Medical officer,Suhela,493195,C.H.C. Hospital suhela dist.balodabazar,General Physician
+116,dr. M.L. dhruw,C.H.C. Hospital suhela,CGMC 8075/2018,manohar.dhruva@gmail.com,7869277799,Medical officer,Suhela,493195,C.H.C. Hospital suhela dist.balodabazar,Pediatrician
+117,Dr NB Bajpei,Bajpei Nursing Home,CGMC 2628/2009,bajpainursinghome@gmail.com,9926644556,MD,Baloda Bazar,493332,Bajpai Nursing Home Baloda Bazar,Orthopaedist
+118,Kiran Shankar Bajpei,Bajpei Nursing Home,CGMC 2627/2009,bajpainursinghome@gmail.com,9425524060,MS,Baloda Bazar,493332,Bajpai Nursing Home Baloda Bazar,Cardiologist
+119,Khusaboo Bajpei,Bajpei Nursing Home,CGMC 4277/2012,bajpainursinghome@gmail.com,6232794004,DNB,Baloda Bazar,493332,Bajpai Nursing Home Baloda Bazar,General Surgeon
+120,Dr N.K. Yadu,N. K. Yadu Hospital,CGMC/8176/2018,dr.n.k.yadu678@gmail.com,9406401083,Doctor,Balodabazar,493332,Opposite Dessahara Maidan balodabazar,General Surgeon
+121,Dr. Nitin tiwari,Chanda devi hospital,CGMC/2828/2010,nitinnitin44@gmail.com,9967565925,Doctor & Director,Balodabazar,493332,2/5 Civil line opp. Police station,General Physician
+122,Dr Pramod tiwari,Chanda devi hospital,CGMC/2584/209,cmhodbr@gmail.com,9425521042,Doctor,Balodabazar,493332,3G/5 Civil line ward no-3 balodabazar 493332,General Physician
+,,,,,,,,,,
+123,Dr. Banau ram joshi,Ganga hospital balodabazar,CGMC 2799/2010,brjoshi1937@gmail.com,9039587269,Ex. Medical officer,balodabazar,493332,"C/O Dr.L.S. Dhruw syam vihar colony chhuhiya
+raitwari bhatapara road balodabazar",General Physician
+124,Hemant kumat mannewar,Esic labour department,CGMC 9011/2019,hemantmannewar007@gmail.com,8839607345,Doctor,Gariaband,493889,Birgaon esic hospital,Pediatrician
+125,Dr Manmohan Singh Thakur,District Hospital,CGMC 2204/2009,drmsthakur2412@gmail.com,9340557033,medical officer,Gariaband,493889,Qno G-3 District Hospital Campus Gariyaband,General Physician
+126,Dr.DOMAR SINGH NISHAD,"Community health center chhura dist
+gariyaband",CGMC/ 8174/2018,domarsingh999@gmail.com,7000208077,Medical Assistant Surgeon,Chhura,493996,CHC chhura,General Physician
+127,Dr.Aman Kumar humane,District hospital Gariyaband c.g.,Cgmc 495,amanhumne@gmail.com,9926151619,Doctor,Gariyaband,493889,District hospital Gariyaband.c.g.,General Physician
+128,dr. a.k. banerjee,torwa near old power house bilaspur cg,cg 1611,asta@rediffmail.com,9425546269,"MBBS, FCGR, RCGR",BILASPUR,495001,torwa near old power house bilaspur cg,Cardiologist
+129,DR. philip n. george,"shala multispeciality hospital dabaripara
+seepat road bilaspur cg",cg m.c. 990/2007,regishailphilip@yahoo.com,9926176962,medical specialist,BILASPUR,495001,"shala multispeciality hospital dabaripara seepat
+road bilaspur cg",General Physician
+130,dr. taniya banerjee,torwa near old power house bilaspur cg,cg m.c 8742/2019,banerjee_taniya@yahoo.com,9131321491,MBBS,BILASPUR,495001,torwa near old power house bilaspur cg,General Physician
+131,dr. rakesh kumar mittal,dr. mittal hospital juniline bilaspur cg,cg m.c. 1246,mittalrakesh10@gmail.com,9425530630,MD MEDICINE,BILASPUR,495001,dr. mittal hospital juniline bilaspur cg,General Surgeon
+132,dr. mohsin hasan siddiaqi,"star childern hospital agrasen chowk
+bilaspur cg",cg m.c. 4468/2012,dr.mohsinhasan@gmail.com,8319575400,consultant paediatricion,BILASPUR,495001,star childern hospital agrasen chowk bilaspur cg,Pediatrician
+133,dr. g.k. mittal,"mittal polyclinc saluja tower chingrajpara
+apollo hospital road bilaspur c.g.",cg m.c. 1776/2008,dr.ganeshkumarmittal@yahoo.com,9826199663,medical consultant,BILASPUR,495001,"mittal polyclinc saluja tower chingrajpara apollo
+hospital road bilaspur c.g.",General Physician
+134,dr. vijay kupatkar,"gurukripa medical care nursing home
+gurvihar colony near muktidham chowk
+sarkanda bilaspur c.g",cg m.c 912/2007,vijaykupatkar1968@gmail.com,9893127439,consulting physician,BILASPUR,495001,"gurukripa medical care nursing home gurvihar
+colony near muktidham chowk sarkanda bilaspur
+c.g",General Physician
+135,dr. rajnish pandey,"pratham hospital near sarkanda thana
+bilaspur cg",cg m.c 2977/2010,prathamhospital2503@gmail.com,8962852000,"MBBS, DNB(FM)
+FISN(NEURO)",BILASPUR,495001,pratham hospital near sarkanda thana bilaspur cg,Orthopaedist
+136,dr. susanta das,"pratham hospital near sarkanda thana
+bilaspur cg",cg m.c 6684/2016,prathamhospital2503@gmail.com,8926852000,"MBBS, DIP IN
+OPTHALMOLOGEST",BILASPUR,495001,pratham hospital near sarkanda thana bilaspur cg,General Surgeon
+137,dr. sudip kumar dhar,"pratham hospital near sarkanda thana
+bilaspur cg",cg. M.c 7940/2018,dr.dhar.sudip@gmail.com,9404766256,MBBS,BILASPUR,495001,pratham hospital near sarkanda thana bilaspur cg,General Physician
+138,dr. anil kumar shrivastava,"ram krishna enclve b-4 flo no 402 bihind
+new show room nutan chowk sarkanda
+bilaspur c.g",cg. H.c. 1249/2007,dr.anilshri007@gmail.com,7999044529,medical,BILASPUR,495001,"ram krishna enclve b-4 flo no 402 bihind new
+show room nutan chowk sarkanda bilaspur c.g",General Surgeon
+139,arvind shroff,"shroff ent hospital gitanjali enclave ring
+road no 2 bilaspur cg",cg m.c 2815,drarvindshroff@gmail.com,9827875572,ent surgeon,BILASPUR,495001,"shroff ent hospital gitanjali enclave ring road no 2
+bilaspur cg",ENT Specialist
+140,dr. sadan kumar,"smile clinic at- lagra near rto office post
+mopka bilaspur cg",9320/cgmc,sadanilam@hotmail.com,9431191743,consaltant,BILASPUR,495001,"smile clinic at- lagra near rto office post mopka
+bilaspur cg",General Physician
+141,dr. amitesh ram,"jarhabhata manjwapara gopal marg
+bilaspur cg",mci/13-49900,csmudr.amitesh@yahoo.com,9300009168,consaltant,BILASPUR,495001,jarhabhata manjwapara gopal marg bilaspur cg,General Physician
+142,dr. sowrabh soni,e-78 rama city bilaspur cg,7602/2017,soni34651@gmail.com,8225087089,consaltant,BILASPUR,495001,e-78 rama city bilaspur cg,General Physician
+,,,,,,,,,,
+143,Shashank Singh,shivi hospital,CGMC 1412/08,drshashank83@gmail.com,"7024975770,
+7000087824",pediatrician,bilaspur,495001,"shivi hospital narmada nagar chouk ring road
+bilaspur",Pediatrician
+144,Ashutosh Tiwari,Mahadev Hospital,CGMC/167/2004,ashutiwari07@gmail.com,9617425285,Consaltant/Director,Bilaspur,495001,"Mahadev Hospital, Mahima Complex Vyapar
+Vihar Road Bilaspur",Neurologist
+145,Megha Tiwari,Mahadev Hospital,CGMC/4294/2012,dr.tiwarimegha@yahoo.com,9977975192,Consaltant/Director,Bilaspur,495001,"Mahadev Hospital, Mahima Complex Vyapar
+Vihar Road Bilaspur",ENT Specialist
+146,Shyam Bihari,Mahadev Hospital,CGMC/6136/2015,dr.shyambiharibspr50@gmail.com,9644511535,Consaltant,Bilaspur,495001,"Mahadev Hospital, Mahima Complex Vyapar
+Vihar Road Bilaspur",General Physician
+147,Anshuman Tiwari,Mahadev Hospital,CGMC/3727/2011,anshu87194@gmail.com,9131774334,Consaltant,Bilaspur,495001,"Mahadev Hospital, Mahima Complex Vyapar
+Vihar Road Bilaspur",General Physician
+148,Rajesh Ahuja,Shree Sai Hoapital,CGMC/5515/2014,drrajeshahuja@yahoo.co.in,9893573000,Consaltant,Bilaspur,495001,"Shree Sai Hoapital Nutan Chowk Sarkanda
+bilaspur",General Surgeon
+149,DR AMIT SONI,SHRIRAM CARE HOSPITAL,CGMC 1058/2007,dramitsoni@outlook.com,9424143102,Medical Surgeon,Bilaspur,495001,"Ameri Road, Nehru Nagar, Bilaspur C.G.",General Surgeon
+150,Dr Ashish Mundra,MUNDRA HOSPITAL,3860/2011,DRASHISHMUNDRA@YAHOO.COM,9425362858,Private Practice,BILASPUR,495001,"GANGA NAGAR PHASE 2, MANGLA
+CHOWK, BILASPUR",General Physician
+151,Dr.Nilay tiwari,Sanjeevani hospital Bilaspur,CGMC9937/2020,Nilaytiwari4004@gmail.com,9755304004,Doctor,Bilaspur,495001,"H-2/13 Narmada nagar,gaurav path,mangla
+chowk,bilaspur c.g",General Physician
+152,Dr. Pranav Dighe,"Chhattisgarh Institute of Medical
+Sciences(CIMS) Bilaspur C.G.",CGMC 10471/2020,pranavdighe22@gmail.com,8878844447,Doctor,Bilaspur C.G.,495001,"C/O Dr.B.P.Dighe, Tikarapara, RamdasNagar,
+Bilaspur, C.G.",General Physician
+153,Dr nikhlesh kumar gupta,CHC TAKHATPUR DIST BILASPUR,1524/2008cgmc,nikhlesh@gmail.com,9770146540,Doctor,Takhatpur,495330,Chc takhatpur dist bilaspur cg,Orthopaedist
+154,shashikant sahu,btrc hospital,cgmc 240/04,drshashikant08@gmail.com,"7747015926,
+7987179874",plastic surgeon,bilaspur,495001,"btrc hospital near vaishali nagar chouk vinoba
+nagar bilaspur",Plastic surgeon
+155,Ravindra Sharma,Mahadev Hospital,CGMC/550/2006,ravindranatural@gmail.com,8770905914,Consaltant,Bilaspur,495001,"Mahadev Hospital, Mahima Complex Vyapar
+Vihar Road Bilaspur",General Physician
+156,dr. santosh gemnani,"star childern hospital agrasen chowk
+bilaspur cg",CGMC 200/04,santosh_g242@yahoo.co.in,9981193242,consaltant,Bilaspur,495001,star childern hospital agrasen chowk bilaspur cg,Pediatrician
+157,dr. yogendra parihar,"pratham hospital near sarkanda thana
+bilaspur cg",CGMC 1671,prathamhospital2503@gmail.com,8962852000,medicine consultant,BILASPUR,495001,pratham hospital near sarkanda thana bilaspur cg,General Physician
+158,Dr Shikha Sarkar,Private Practice,CGMC/6992/2016,sikhasarkar1697@gmail.com,9406430929,MBBS,Bilapsur,495001,A/S 150 Agyey Nagar Bilaspur,General Surgeon
+159,Dr PL Kesharwani,Kesharwani Clinic,CGMC/3807/2011,akhilk2k@yahoo.com,9406109061,MBBS,Bilapsur,495001,Circuit House Chouk Mungeli Naka Bilaspur,Pediatrician
+160,Dr Ashish Ghritesh,Private Practice,CGMC/6370/2015,aghritesh11@gmail.com,8057387815,MBBS,Bilapsur,495001,Om Nagar Jaharabhata Bilaspur,Orthopaedist
+161,Dr Sitaram Agrawal,Private Practice,MMC/6765/1978,sittu50@gmail.com,9425219148,MBBS,Bilapsur,495001,Senior MIG 03 Neharu Nagar Bilaspur,General Physician
+162,Dr Namita Shriwastava,Private Practice,CGMC/1244/2007,drnamitashrivastava@gmail.com,9827193197,MBBS,Bilapsur,495001,Ware House Road Bilaspur,Pediatrician
+,,,,,,,,,,
+163,Dr Manish Shrivastava,Private Practice,CGMC/1243/2007,shrivastava977@gmail.com,7587234850,MBBS,Bilapsur,495001,Ware House Road Bilaspur,Orthopaedist
+164,Dr BK vaishnaw,Private Practice,CGMC/81/2003,vaishnawyash19@gmail.com,9827188523,MBBS,Bilapsur,495001,Behind LIC Office Rukmani Vihar Bilaspur,General Physician
+165,Dr H.P. Gupta,Private Practice,CGMC 3833/2011,drhpguptabsp@gmail.com,9424173692,Senior Physician,Bilaspur,495001,"HIG B-3 Parijat Extension Neharu Nagar bilaspur
+CG",General Physician
+166,dr. shaila milton philip,"shaila multispeciality hospital dabaripara
+seepat road bilaspur cg",cg m.c. 1281/2008,regishailphilip@yahoo.co.in,9893882502,genral surgeon,BILASPUR,495001,"shaila multispeciality hospital dabaripara seepat road
+bilaspur cg",General Physician
+167,Dr Aashutosh Kori,IMS Bilaspur,CGMC/4058/2012,dr.aashu.kori@gmail.com,8349942968,Associate Professor,BILASPUR,495002,Bramhanpara Ward No. 2 Sakri Bilaspur,General Surgeon
+168,Dr Prabhat Kumar Vishwakarma,Masih Seva Samiti Hospi. Mungeli,CGMC 2603/2009,dr.prabhatvishwakarma@gmail.com,9301586148,Medical Officer,BILASPUR,495006,H No.-62 sarojvihar bahtarai sarkanda,General Physician
+169,pamlesh kumar sahu,kailash vihar bilaspur,cgmc 8078/2018,drpamleshsahu@gmail.com,8319243068,MBBS,BILASPUR,495001,kailash vihar bilaspur,General Surgeon
+170,Rajat kumar agrawal,"eden court loyola school lingiadih rajkishor
+nagar bilaspur cg",cgmc 11445/2021,rajatagrawal@gmail.com,9098682222,RMO,BILASPUR,495001,"eden court loyola school lingiadih rajkishor nagar
+bilaspur cg",General Physician
+171,DR. ABHA RATRE,"SHASHI MEMORIAL NURSING HOMES ,R
+K NAGAR BILASPUR C.G 495001",C.G.M.C. 2513/2009,smnhbilaspur@gmail.com,9425178649,M.B.B.S.,BILASPUR,495001,"BEHIND GANESH SWEETS R K NAGAR
+BILASPUR C.G 495001",Gynaecologist
+172,Vijay Kumar Tamrakar,-,5066,tapastamrakar@gmail.com,"9893009360,
+9630320020",Medical Practionar,Pendra Road,495117,Pendra Road,Neurologist
+173,Dr KK Tandi,CHC Pendra,9315,kktandi2009@gmail.com,9826971121,Medical Officer,Pendra,495117,CHC Pendra Dist GMP CG,Cardiologist
+174,Dr Abhimanyou Singh,CHC Gaourela,4350,drabhimanyou@gmail.com,9425180875,Medical Officer,Pendra Road,495117,CHC Gaourela Near SDM Office Pendra Road,Plastic Surgeon
+175,Dr Hariom Gupta,District Hospital Gaurela Pendra marwahi,10222,vicky.mrhi@gmail.com,"9340277912,
+8085571769",Medical Officer,Gaurela,495117,District Hospital Gaurela Pendra marwahi,Cardiologist
+176,Dr Hemant Kumar Tanwar,District Hospital Gaurela Pendra marwahi,CGMC 2156,drhemantkumartanwar250971@gmail.com,9424150470,Ortho,Pendra,495119,"Ward no 11 Ciswakarma Mohalla Girls School
+Road Pendra Dist- GPM",Orthopaedist
+177,Dr. Johan Singh Kanwar,CHC Pendra,CGMC 1681/2008,johansingh024@gmail.com,7999487255,Medical Officer,Pendra,495119,Adharshila Colony Bus Stand Pendra,General Physician
+178,DR. KAMAL KUMAR SONI,"COMMUNITY HEALTH CENTER CHC GAURELA
+PENDRA SARBAHARA G.P.M. (C.G.)",C.G.M.C. 1034/2007,kksoni70kg@gmail.com,9425219560,M.B.B.S.,Pendra,495117,"SUNDAR NAGAR NEAR ICE FACTORY
+SARBAHRA PENDRA ROAD DIST
+GAURELA PENDRA MARWAHI C.G.",General Surgeon
+179,Ramesh Chandra AgrAWAL,Gayatri Hospital,C.G.M.C. 1141/2007,dr.rcagrawalkhs@gmail.com,9826523171,Private Practice,kharsia,496661,"GAYATRI HOSPITAL , NEW GURUDWARA
+ROAD WARD NO. 16",General Physician
+180,SAJAN KUMAR AGRAWAL,Civil Hospital kharsia,6600,agrawal.sunil63@gmail.com,9425252710,Hospital,Kharsia,496661,Near Sani mandir chandan talab kharsia,General Physician
+181,Dr. DINESH KUMAR NAIK,CHC PUSSORE,C. G. M. C. 4843/2013,naikdinesh12@gmail.com,7354111909,Doctor,"PUSSORE,Raig
+arh",496440,"CHC PUSSORE, Block - Pussore, District-
+Raigarh",General Physician
+182,Dr. Rajani Naik,CHC PUSSORE,C.G.M.C. 3323/2011,rajanipatel.dr@gmail.com,9907749651,Doctor,"PUSSORE,Raig
+arh",496440,"Community Health Center Pussore, Block -
+Pussore, Dist- Raigarh",General Physician
+,,,,,,,,,,
+183,Dr Shalabh Agrawal,SHIV HOSPITAL AND DIAGNOSTIC,CGMC-565,drshalabhagrawal90@gmail.com,7354775000,Doctor,Raigarh,496001,"Shiv Hospital and Diagnostic Centre, Near
+kayaghat Turn,Jute mill road,Raigarh",General Physician
+184,Dr. Pooja Agrawal,"Lt Shri Lakhi Ram Agrawal Medical
+College, Raigarh",CGMC-798/21/2013,drpoojaagrwal81@gmail.com,8109890205,Doctor,Raigarh,496001,"Chhote Attarmuda TV tower road, Infront of
+Electirc Substation",General Physician
+185,Dr. Mitesh Sinha,"Lt Shri Lakhi Ram Agrawal Medical
+College, Raigarh",6290,miteshphysio70@gmail.com,7582864095,Doctor,Raigarh,496001,"B1, TYPE IV, MEDICAL COLLEGE
+CAMPUS, RAIGARH",Orthopaedist
+186,Dr. B. K chandrawanshi,CHC PUSSORE,CGMC 3095/2010,drbkc182@gmail.com,9827400376,Medical Officer,"PUSSORE,Raig
+arh",496440,"CHC PUSSORE, Block - Pussore, District-
+Raigarh",General Physician
+187,Dr. Mukesh Kumar Bharti,ESI Dispensary Patrapali,CGMC 564/2006,drmukeshbharti@gmail.com,6264812168,Medical Officer,Raigarh,496001,"South Mithhumuda, Jutemill, Raigarh",General Physician
+188,Dr Chinmaya Mishra,Kirodimal Hospital,CGMC 10470/2020,chinmaya.happy@gmail.com,9229460180,Junior Resident,Raigarh,496001,"106 Chandra Paradise Appartments, Kelo Vihar,
+Raigarh",General Physician
+189,Dr Manish Patel,PHC Kosir,CGMC 46/2020,patel94manish@gmail.com,"7611155065,
+8962463007",Medical Officer,"Kosir, Raigarh",496445,"PHC Kosir, Raigarh",General Physician
+190,Dr Pramod Kumar Gupta,Vandana diagnostics Raigarh,C.G.M.C. 11O9/2007,Drguptapramod@rediffmail.com,9425252730,Clinic,Raigarh,496001,"VANDANA DIAGNOSTICS, KOSTHA PARA
+NAYA GANJ ,RAIGARH C. G.",Neurologist
+191,Dr krishna patel,"Lt shri lakhiram agrawal medical college
+Raigarh",CGMC10227/2020,krishnapatel1855@gmail.com,9584841855,Doctor,Raigarh,496001,Medical college Raigarh,General Physician
+192,"DR. MRINAL RAY
+CHAUDHURI",OLIVE DIAGNOSTICS,CGMC 3855,mohomohi@gmail.com,9827477600,Doctor,Raigarh,496001,"OLIVE DIAGNOSTICS. opp. NATWAR
+SCHOOL. Beside ATITHI HOTEL. CIVIL
+LINES ROAD.RAIGARH. CG 496001",Orthopaedist
+193,Dr Lakhan lal patel,Mch -lailunga,CGMC 7636/2017,lakhanlalpatel162@gmail.com,9131255344,Doctor,Raigarh,496113,Lailunga,General Physician
+194,"DR SANJIB PURKAYASTHA,
+MS , MBA.",Fortis O P Jindal.Hospital,CGMC -3425/2011,drspurkayastha68@gmail.com,8827478004,Medical Surgeon,Raigarh,496001,"Fortis O P Jindal Hospital, Kharsia Road.",General Surgeon
+195,Ramesh Chandra AgrAWAL,Gayatri Hospital,CGMC 1141/2007,dr.rcagrawalkhs@gmail.com,9826523171,Private Practice,kharsia,496661,"GAYATRI HOSPITAL , NEW GURUDWARA
+ROAD WARD NO. 16",General Physician
+196,Dr Yogesh Patel,"Care and Cure Speciality Clinic and
+Research Centre, Raigarh",245,drypatel@gmail.com,9981846933,Clinic,Raigarh,496001,"Street No.-1, Vikas Nagar, Kotra Road Raigarh",Homeopathy
+197,Dushyant Chandra,KGH Raigarh,CGMC 10127/2020,du.chandra.91@gmail.com,8871390810,Doctor,Raigarh,496001,"JR Hostel, medical college campus, TV tower
+road",General Surgeon
+198,Dr ARUN KUMAR PATEL,KGH RAIGARH,CGMC-6978/2016,arun.yogeshmbbs@gmail.com,9200000000,Doctor,Raigarh,496001,195 krishna vatika colony Raigarh,General Surgeon
+199,Dr K.L Dembra,Private Clinic,CGMC 7996/2018,kantidembra@gmail.com,6260790480,Doctor(Eye Specialist),Raigarh,496001,"Goushala Complex, Goushala Road, Raigarh",Opthalmologist
+200,Dr Arjunlal Dembra,Private Clinic,CGMC 5560/2014,drdembra@yahoo.co.in,9926850140,Doctor(Eye Specialist),Raigarh,496001,"Goushala Complex, Goushala Road, Raigarh",Opthalmologist
+201,Dr Sanjay Patel,CHC BARAMKELA,CGMC 5795/2014,sapasanjay@gmail.com,7587239108,Medical Officer,"Dabhara,
+Baramkela,Raiga
+rh",496551,CHC Baramkela,General Physician
+202,Dr Sanjay Agrawal,CHC BARAMKELA,CGMC /721/2007,sanjaygoyal.in@gmail.com,9303143565,Medical Officer,"Baramkela,
+Raigarh",496551,CHC Baramkela,Gynaecologist
+,,,,,,,,,,
+203,Dr Awadhesh Panigrahi,CHC BARAMKELA,CGMC 4304/2012,dravi25101984@gmail.com,9340086976,Medical Officer,"Baramkela,
+Raigarh",496551,CHC Baramkela,General Physician
+204,Dr Neel Kumari Patel,CHC BARAMKELA,CGMC 7653/2017,drneelpatel25@gmail.com,9131383404,Medical Officer,"Baramkela,
+Raigarh",496551,"Vill - Murra, CHC Baramkela",General Physician
+205,Dr Anand Mohan Gupta,Private Practice,CGMC 5257/2014,dramgupta@gmail.com,9425251161,Private Practice,Raigarh,496001,Umang Sadan Naya Ganj Raigarh,General Physician
+206,Dr Padman Kumar Patel,Private Practice,CGMC 5095/2014,patel.drpadman@gmail.com,"7089022577,
+9300122577",Private Practice,Raigarh,496001,40/888 Kotra Bypass Road,General Physician
+207,Dr Savitri Toppo,CHC TAMNAR,CGMC 1076,drstoppo15@gmail.com,9630301223,Medical Officer,"Tamnar,Raigarh",496107,"Hospital Colony, CHC Tamnar",General Surgeon
+208,Dr Dhan Singh Painkra,CHC TAMNAR,CGMC 470,drpspainkra77@gmail.com,9630244320,Medical Officer,"Tamnar,Raigarh",496107,"Hospital Colony, CHC Tamnar",General Surgeon
+209,Dr Vimal Naik,CHC TAMNAR,CGMC 10185/2020,vimnaik94@gmail.com,7987149832,Medical Officer,"Tamnar,Raigarh",496107,H-15 HOUSING BOARD COLONY TAMNAR,General Physician
+210,Dr Bhanu Pratap Sai,CHC SARANGARH,CGMC 872/2007,drbhanupratapsai100@gmail.com,9425573590,Medical Officer,"Sarangarh,
+Raigarh",496445,"Block Colony, Sarangarh,Raigarh",General Physician
+211,Dr Shiva Jaiswal,Kirodimal Hospital Raigarh,CGMC 9701/2020,shivajaiswalcg@gmail.com,"993230610,
+9893569923",Medical Officer,Raigarh,496001,"Near SBI Bank Kotra Road, Raigarh",General Physician
+212,Dr Himanshu Dubey,CHC Pussore,CGMC 8154/2018,himanshu20192@gmail.com,9165783431,Medical Officer,"Pussore, Raigarh",496440,CHC Pussore,General Physician
+213,Dr Manoj Kumar Patel,CHC LAILUNGA,CGMC 3234/2010,hiccha.1985@gmail.com,9827677407,Medical Officer,"Lailunga,
+Raigarh",496113,"F-4, CHC LAILUNGA HOSPITAL CAMPUS",General Physician
+214,Dr Loknath Dahriya,CHC LAILUNGA,CGMC 8255/2018,ldahriya2@gmail.com,7987694464,Medical Officer,"Lailunga,
+Raigarh",496113,"F-3, CHC LAILUNGA HOSPITAL CAMPUS",General Physician
+215,Dr Gulshan Kumar Sidar,CHC LAILUNGA,CGMC 5182/2014,g4gulshan123@gmail.com,7587207297,Medical Officer,"Lailunga,
+Raigarh",496113,"F-2, CHC LAILUNGA HOSPITAL CAMPUS",General Physician
+216,Dr Jitendra Kumar Patel,CHC LAILUNGA,CGMC 10679/2020,jaypatel.salhepali@gmail.com,7354018442,Medical Officer,"Lailunga,
+Raigarh",496113,CHC LAILUNGA HOSPITAL CAMPUS,General Physician
+217,Dr Abhishek Patel,"CHC CHAPLE, KHARSIA",CGMC 7518/2017,abhishekp3@gmail.com,8770090824,Medical Officer,"Chaple Kharsia
+Raigarh",496661,Patel Colony Mouhapali Kharsia,General Physician
+218,Dr Saurabh Agrawal,"SS clinic, Kharsia",CGMC 6647/2016,saurabh_atm@yahoo.com,9861448866,SURGEON,"Kharsia, Raigarh",496661,"SS clinic & Pathology, Ganj bazar, Karsia,
+Raigarh",General Surgeon
+219,Dr Pradeep Rathore,"Sarla Villa, Chakradhar nagar Chowk",CGMC 3566/2011,prathoremorpheus@gmail.com,9425534660,Doctor,Raigarh,496001,"Sarla Villa, Chakradhar nagar Chowk,Raigarh",General Physician
+220,Dr. Alka Minj,Mahima Hospital Mungeli,CGMC 7352/2017,alkadivya@gmail.com,9826118141,M D,Mungeli,495334,Mahima Hospital Mungeli,Orthopaedist
+221,Dr. Nikhalesh Kumar Gupta,CHC Takhatpur,CGMC 1524/2008,nikhleshdr@gmail.com,9770146540,Medical Officer,Takhatipur,495330,CHC Takhatpur,General Physician
+222,Dr. Sapan Kumar,Christian Hospital Mungeli,CGMC 7389,priyasapan21@gmail.com,9597956397,M D,Mungeli,495334,Christian Hospital Mungeli,Cardiologist
+,,,,,,,,,,
+223,Dr. Jaifrin Daniel,Christian Hospital Mungeli,CGMC 4822,jdaniel.m07@gmail.com,9789230877,M D,Mungeli,495334,Christian Hospital Mungeli,Neurologist
+224,Dr. Sandip Kumar Patil,District Hospital Mungeli,CGMC 5815/2014,sandyrussia@gmail.com,9630570960,RMaleO,Mungeli,495334,District Hospital Mungeli,Pediatrician
+225,Dr. G B Singh,District Hospital Mungeli,CGMC 4624/2013,singhgb29@gmail.com,7828144270,Medical Officer,Mungeli,495334,District Hospital Mungeli,General Physician
+226,Dr. Kripal Singh Kanwar,District Hospital Mungeli,CGMC 7006/2016,dr.kripalsinghkanwar05@gmail.com,9826435214,Medical Officer,Mungeli,495334,District Hospital Mungeli,General Physician
+227,Dr. Devesh Khandey,District Hospital Mungeli,CGMC 1386/2008,drdeveshkhandey@gmail.com,9993072230,Medical Officer,Mungeli,495334,District Hospital Mungeli,General Physician
+228,Dr. R S Ayam,CHC Lormi,CGMC 2051/2008,drayam36@gmail.com,9893825136,Medical Officer,Lormi,495115,CHC Lormi,General Physician
+229,Dr. Jitendra Kumar Painkra,CHC Lormi,CGMC 4555/2013,jitendrapainkra@gmail.com,9770588887,Medical Officer,Lormi,495115,CHC Lormi,General Physician
+230,Dr. Sandeep Kumar Charan,Charan Nursing Home Takhatpur,CGMC 3820/2011,dr.sandeepkumarcharan@gmail.com,9893433182,MBBS,Takhatipur,495330,Charan Nursing Home Takhatpur,General Surgeon
+231,Dr. Brajesh Patel,Life Line Hospital Mungeli,CGMC 6355/2015,lifelinemungeli@gmail.com,9301908718,Consultant Surgeon,Mungeli,495334,Life Line Hospital Mungeli,General Surgeon
+232,Dr. Deepak Lodge,Main Road Ward 15 Lormi Mungeli,CGMC 5260,Dr.lodge8711@gmail.com,9893888711,MBBS,Lormi,495115,Main Road Ward 15 Lormi Mungeli,General Physician
+233,Dr. Celine Kujur,Mahima Hospital Mungeli,MPMC 7164,dr.celindindori@gmail.com,9009620936,Consultant Pediatrics,Mungeli,495334,Mahima Hospital Mungeli,Pediatrician
+234,Dr. Priyamvada Singh,Christian Hospital Mungeli,PMC 38209,priyasapan21@gmail.com,7974968242,MBBS MD,Mungeli,495334,Christian Hospital Mungeli,Cardiologist
+235,Dr Chandra Shekhar Nayak,,CGMC/1931/2008,nayakcs@yahoo.in,8965076766,M.O,Durg,490006,Samudayik Swasth kendra (Utayi),Neurologist
+236,Dr Tarun Kumar Pande,,CGMC/2787/2010,tkpande6@gmail.com,9575818242,Consultant,Bhilai,490006,"Vayam Health Care,priyadarshini Parishar",General Surgeon
+237,Dr Anil Agrawal,,CGMCI/3969,ani.agr312@gmail.com,9827173021,M.O,Utayi,490006,Samudayik Swasth kendra (Utayi),General Physician
+238,Dr Deepak K Ghormode,,CGMC/6182/2015,gdkrishna@gmail.com,8359898122,Doctor,Durg,491001,Durg,General Physician
+239,Dr Chhaya Bharti,,CGMC 247/2004,chhayadr6@gmail.com,9.20E+11,Private Practice,BHILAI,490020,BHILAI,General Physician 
+240,"DR HARI OM
+CHANDRAKAR",,CGMC 4063/2012,grdcbhilai@gmail.com,9179062462,Private Practice,BHILAI,490006,BHILAI,General Physician
+241,"PRATEEK NARESH
+KAUSHIK",,CGMC4268/2012,prateekkaushik@yahoo.com,8103370024,Hospital,bhilai,490011,bhilai,Orthopaedist
+242,Amit jagyasi,,CGMC 4297/2012,dramitjagyasi@gmail.com,9522848824,Clinic,Durg,491001,Durg,Neurologist
+,,,,,,,,,,
+243,Dr Rajnish Pandey,,3089/CG2010,drrajnishpandey@gmail.com,9098418959,Private Practice,Durg,491001,Durg,General Physician
+244,Dr. Mahendra Kumar bareth,,Cgmc8781,Dr.mahi010190@gmail.com,8109514301,Doctor,Durg,491001,Durg,Neurologist
+245,Dr swamydev bhupendra,,CGMC49,drswamydev@gmail.com,9826151193,Medical Surgeon,Durg,491001,Durg,General Surgeon
+246,Dr. Subhash Chandra Borghate,,CGMC 3203/ 2010,scborghate@gmail.com,9993840030,Private Practice,Bhilai,490020,Bhilai,General Physician
+247,Dr Sanjay Dani,,CGMC3613/2011,sanjay.dani2@gmail.com,9893097705,Private Practice,Durg,491001,Durg,General Physician
+248,Ghanshyam das rajpal,,C GMaleC 2084/2008,drghrajpal1008@gmail.com,9826612222,Clinic,Durg,491001,Durg,General Physician
+249,Dr Raninder Kumar Verma,,CGMC/5130/2014,drrvverma35@gmail.com,8827256361,Medical Officer,Ahiwara,490036,Durg,General Surgeon
+250,Dr Shubham Chandrakar,,CGMC/10527/2020,shubh.c12@gmail.com,9981743811,Medical Officer,Patan,491111,Durg,General Surgeon
+251,Dr Navin Kumar Tiwari,,CGMC/7669/2017,navin.tiwari2010@gmail.com,8602604069,Medical Officer,Patan,491111,Durg,General Physician
+252,Dr Prafull Kumar Dhiwar,,CGMC/7757/2017,prafullkumar18388@gmail.com,9827050403,Medical Officer,Dhamdha,491331,Durg,General Physician
+253,Dr Puna Lal Bhagat,,CGMC/529/2006,punalalbhagat04@gmail.com,9424219213,Medical Officer,Machandur,490006,Durg,General Surgeon
+254,Dr smriti Pandey,,CGMC/10017/2020,smritipandey333@gmail.com,6261523662,Medical Officer,Bhilai-3,490021,Durg,General Physician
+255,Dr Aditya Narayan Sharma,,CGMC/8836/2019,aadityanarayansharma@rediffmail.com,8319894406,Medical Officer,Bhilai-3,490021,Durg,General Physician
+256,Dr Piyam Singh,,CGMC/2614/2009,dr.piyamsingh@gmail.com,9424191980,Senior Medical Officer,Bhilai,490023,Durg,General Surgeon
+257,Dr Balram Shrivas,,CGMC/9945/2020,shivas.balram90@gmail.com,7974868294,Medical Officer,Batrel,491222,Durg,General Surgeon
+258,Dr Ashutosh Verma,,CGMC/3336/2011,ashutoshverma0304@gmail.com,8319635427,Consulting Paediatrician,"Junwani, Bhilai",490020,Durg,Pediatrician
+259,Dr Sushma Singh,,CGMC/6577/2016,sushma30aug@gmail.com,7987960496,Medical Officer,Bhilai,490011,Durg,General Physician
+260,"Dr Devendra Kishor
+Belchandan",,CGMC/705/2007,drbelchandan.68@gmail.com,9425564742,BMO,Nikum,491001,Durg,Orthopaedist
+261,Dr Subrat Nandi,,CGMC/5091/2014,subratnandi62@gmail.com,8349044584,Medical Officer,Durg,490006,"Risali, Bhilai",General Physician
+262,Dr Ashish Sharma,,CGMC/2946/2010,dr.sharma.ashish@gmail.com,9424105144,Senior Medical Officer,Durg,491111,Patan,General Surgeon
+,,,,,,,,,,
+263,Dr Suyash Noel Ranga,,CGMC/2521/2009,drsuyash23@gmail.com,9993368086,Eye Specialist,Durg,491001,Durg,Opthalmologist
+264,Dr Sashiprabha Maitry,,CGMC/7451/2017,drshashiprabhamaitry@gmail.com,7981423921,Medical Officer,Dhamdha,491001,Sirnabhata,General Physician
+265,Dr Rajan Babu,,CGMC/5355/2014,drrajan13128@gmail.com,9754186776,Medical Officer,Surdung,490011,,General Physician
+266,Dr Mridul Kumar Singh,,MP/2259,dr.mridulsingh@gmail.com,8319700219,Senior Medical Officer,Ahiwara,491001,,General Physician
+267,Dr Ravi Kumar Saxena,,CGMC/2470/2009,ravi.saxena1951@gmail.com,7389147827,Senior Medical Officer,Bhilai- 03,490021,"6/21,vasundra nagar,north Bhilai-03",General Physician
+268,Dr Sanjeev Kumar Shukla,,CGMC/993/2007,drsanjeevshukla@yahoo.co.in,9981123636,Medical Officer,Nikum,490020,Nikum,General Physician
+269,Dr Sachin Shrivastava,,CGMC/9886/2020,anktsdr@gmail.com,8770715901,Private,Bhilai,490024,"cseb chowk,nandini road,jamul",Pediatrician
+270,Dr G. Sadhana,,CGMC/4553/2013,gondelasadhana@gmail.com,9826142268,Private,Bhilai,490009,"Shop No-25, A-market ,Hudco",Orthopaedist
+271,Dr Narendra Golan,,MP/5076,24081974ng@gmail.com,9406248240,Community Health Center,Utai,411107,Sr Medical Officer,General Surgeon
+272,Dr Rajkumar Nayak,,CGMC/2903/2010,drrajkumarnayak58@gmail.com,7828678878,District Hospital,Durg,491001,Surgeon,General Surgeon
+273,Alisha Ashani,,CGMC/8908/2019,alishaashani93@gmail.com,9713117430,Private,Bhilai,490001,Nehru Nagar Chowk,General Physician
+274,Vikas Verma,,CGMC/4854/2013,verv75@rediffmail.com,7440480001,Private,Bhilai,490001,"Aadi Medical Store, Sec -6, A- market",General Physician
+275,Sewaram Godwani,,CGMC/2435/2009,dr.srgodwani1552@gmail.com,9300293295,Private,Durg,491001,"Clinic at Dhamdha naka rd, Mohan Nagar.",General Physician
+276,Rajiv Chandrakar,,CGMC/866/2007,drrajiv.chandrakar@gmail.com,9009203789,Doctor,Durg,491001,Shop No:- 24 Housing Board Complex Durg,Cardiologist
+277,Ankur Parganiha,,CGMC/9460/2019,vibhuticorporation@gmail.com,9329206383,Doctor,Durg,490022,"Street NO. 05 Nasing Vihar Katul Board Bhilai
+Did Durg",Neurologist
+278,Ghanshyam das rajpal,Rajpal clinic,CGMC/2084/2008,drghrajpal1008@gmail.com,9826612222,Private Practice,Durg,491001,Durg,General Physician
+279,Dr.ashok Tamrakar,"Dr.Tamrakar child and dental clinic
+Dongargarh Chhattisgarh",CGMC/3124,dr.tamrakarashok@gmail.com,9425560234,Clinic,"Dongargarh
+Chhattisgarh",491445,"Near Khalsa public school budhwari para
+Dongargarh Chhattisgarh",General Physician
+280,Dr deepak pansari,Not working anywhere,10131/2020,Deepakpansari94@gmail.com,8839917354,Degree,Rajnandgaon,491441,"H no. 27 tulsipur sangam chowk rajnandgaon
+chhattisgarh",Pediatrician
+281,Gaurav Jain,Medical College Hospital Rajnandgaon,CGMC 9250/2019,gauravraisoni422@gmail.com,7974496936,Doctor,Rajnandgaon,491441,"Near Vandana Palace , Janta Colony Lakholi
+Road Rajnandgaon",Orthopaedist
+282,Dr abhinav kumar panchari,"Community health center,gandai",CGMC7880/2018,abhinavpanchari@gmail.com,8103015189,Doctor,Gandai,491888,Staff quarter in chc GANDAI,General Physician
+,,,,,,,,,,
+283,Dr. Seema Thakur,Community health center,Cgmc 1210/2007,Drsthakur00@gmail.com,942105751,Medical Assistant Surgeon,Mohala,491666,Mohala,General Physician
+284,DR RAGINI CHANDRE,C.H.C DONGARGAON,cgmc1491/2008,chandreragini@gmail.com,9926946739,Medical Assistant Surgeon,Dongargaon,491661,Hospital parisar CHC Dongargaon,General Physician
+285,DR ANIL MAHAKALKAR,"District hospital associated Govt Medical
+College hospital,Rajnandgaon C G
+491441",CGMC 3553/2011,dranilmahakalkar@gmail.com,9425243068,Medical Surgeon,Rajnandgaon,491441,"Indrapuri,Circuit house road,Anupam
+Nagar,Rajnandgaon C.G 491441",Orthopaedist
+286,Dr Govind Prasad Kaushik,Community Health Center Manpur,3442/2011,drgovindkaushik@gmail.com,8103149127,Doctor,Rajnadgaon,491229,Hospital Colony Manpur,General Surgeon
+287,Dr.R.R. Dhruwe,Community Health Center A.Chowki,CGMC 3827,dr.rr. dhrurwe@gmail.com,9406047841,Medical Assistant Surgeon,"Ambagarh
+Chowki",491665,Ward No-3 Ambagarh Chowki,General Physician
+288,Dr Nikita Girepunje,Chc Chhuikhadan,8257/2018,girepunjenikitag92@gmail.com,8269720071,Medical Assistant Surgeon,Chhuikhadan,491885,Main road Chhuikhadan,General Physician
+289,Dr.Bhupendra Kumar Janghel,CHC Ambagarh Chowki,6674,bhupinderjanghel@gmail.com,9516943936,Doctor,"Ambagarh
+Chowki",491665,"Village Ghirgholi, block chhuikhadan, District
+Rajnandgaon Pin 491885",General Surgeon
+290,Dr DEVESH THAKUR,CHC MOHLA,5985/2015,www.thakurdevesh789@gmail.com,6263390225,Doctor,MOHLA,491666,CHC MOHLA,General Physician
+291,Dr S R Kowachi,CHC mohla rajnandgaon cg,2641,kowachi123sonal@gmail.com,7587247508,Medical Officer,Mohla,491666,"Vill mohla, ward no 1 Bhojtola road Mohla",General Physician
+292,Dr Uday Singh Chandrawanshi,Govt. Dist. Hospital Rajanadgaon,4766,druschandrawanshi23@gmail.com,9630543542,Medical Specialist,Rajnadgaon,491441,"Hno C-13 baiznath colony Basantpur
+Rajnandgaon",Cardiologist
+293,Dr Divakar Rangary,"Shukla Multispeciality Hospital
+Rajnandgaon",MCI CG 3549,dr.divakarrangary@yahoo.co.in,9827152249,Medical Specialist,Rajnandgaon,491441,Hno 2 Kamla College road Rajnandgaon,Neurologist
+294,Dr. Varsha Thakur,CHC mohla rajnandgaon cg,CGMC 7219/2017,drvarshathakur22@gmail.con,7067181970,Medical Officer,Mohla,491666,CHC mohla rajnandgaon cg,General Physician
+295,Dr Yogesh Kumar Tiwari,"Late Bharat Ratna Atal Bihari Vajpayee
+memorial Government Medical College
+Rajnangaon",4636,Yogeshtiwari521@gmail.com,9691336189,Medical Surgeon,Rajnandgaon,491441,"Mig 11/a , kunj vihar colony ,kamala college
+road, kaurin bhata ,rajnandgaon",General Surgeon
+296,Dr Varsha Thakur,CHC mohla rajnandgaon cg,CGMC/7219/2017,drvarshathakur22@gmail.con,7067181970,Doctor,Mohla,491666,CHC mohla rajnandgaon cg,General Surgeon
+297,Dr Nandkishor Tandan,CMC Ghumka,CGMC 7810/2018,nanduapna26@gmail.com,8839556546,Medical Officer,Rajnandgaon,491444,"Makkatola, Lalbahadur nagar Dongargarh",General Physician
+298,Dr Tarachand Soni,Clinic,CGMC 5116/2014,tarachandsoni1950@gmail.com,6263982080,M.B.B.S.,Rajnandgaon,491441,"Ramahin Marg, Rajnandgaon",General Surgeon
+299,Dr Chandrakant Urwasha,CHC Gandai,CGMC 7767/2017,squadronleader29@gmail.com,8085089018,Medical Officer,Rajnandgaon,490001,Bhilai Nagar,General Physician
+300,Dr Sandeep Kumar Bhaskar,Civil Hospital Khairagarh,CGMC 96/2020,sdp.bhaskar@gmail.com,7240884603,MBBS,Khairagarh,491881,Ward no 16 Khairagarh,General Surgeon
+301,Dr Rahul Govindani,CHC Devari,CGMC 10111/2020,drrahulgovindani@gmail.com,9691054141,Medical Officer,Rajnandgaon,491441,St no 9 Lalbagh Rajnandgaon,General Physician
+302,Dr Dhananjay Singh Thakur,Govt medical college hospital Rajnandgaon,CGMC/5430/2014,royallydj@gmail.com,7000190797,CONSULTANT,Rajnandgaon,491441,"Doctors colony District hospital campus Basantpur
+Rajnandgaon",Pediatrician
+,,,,,,,,,,
+303,Dr Shikha Soni,Govt medical college hospital Rajnandgaon,2017/09/4417,shikhasoni302@gmail.com,7972564413,Junior Resident,Rajnandgaon,491441,"Lalbagh St no 1 Near bramha kumari aashram
+Rajnandgaon",Anesthesilogist
+304,Dr Chandrashekhar Verma,CHC Chhuriya,440/2020,csvvirus2015@gmail.com,7772825459,Medical Officer,Rajnandgaon,491441,Doctors Colony Chhuriya,General Surgeon
+305,Dr. Siddharth Gupta,Clinic,4178/2012,india_gupta@yahoo.co.in,9827100001,Clinical Practice,Rajnandgaon,491441,Suncity Kanchan Bag,General Physician
+306,Dr.(Smt.) Shashi Cladius,Claudius Clinic,CG Reg. 1984,bcladius@gmail.com,9424105656,"Bsc. ,MBBS, DGO",Balod,491226,Jawahar Market Balod,General Surgeon
+307,Dr. Balun Kumar Cladius,Cladius clinic,CGMC1985,bcladius@gmail.com,9425500555,General Physician,Balod,491226,"Dr. BK Cladius
+Jawahar Market Balod",General Physician
+308,Dr. Yogesh Lalwani,"Late Bharat Ratna Atal Bihari Vajpayee
+memorial Government Medical College
+Rajnangaon",CGMC7672/2017,yogcshlalwani1991@gmail.com,8888461563,MBBS,Dalli Rajhara,491228,"Shaheed Hospital Konde Road Purana Bazar
+Dallirajhara",Orthopaedist
+309,Dr. PD Lalwani,"Late Bharat Ratna Atal Bihari Vajpayee
+memorial Government Medical College
+Rajnangaon",CGMC4328/2012,dr.pdlalwani@gmail.com,9424132551,MBBS,Dalli Rajhara,491228,"Main Road Wno-04 Lalwani Clinik Gurunanak
+Market Dalli rajhara",Cardiologist
+310,Dr Pradeep Jain,SWASTHYA SANCHAY,CGMC 2030/08,jain_pradeep2000@yahoo.com,9425554530,Private Practice,BALOD,491226,"CHINAR COMPLEX, SADAR ROAD BALOD",General Physician
+311,Amit Kumar Tiwari,Aarogya Hospital,MCI/28574,dr.amit_tiwari@hotmail.com,8085900999,Doctor,Dalli Rajhara,491228,New Bus Stand Road,Child Specialist
+312,Jitendra Kumar,District hospital balod,4993,jitkr03@yahoo.com,9981643726,Doctor,Balod,491226,"Hospital colony, district hospital balod",General Physician
+313,Dr. Vinod Kumar Bhoyar,Pvt. Clinik,CGMC2685/2009,drvinodbhoir@gmail.com,9425200597,Medical Officer,Dalli Rajhara,491228,"W No-09 Chikhalakasa, Balod CG",General Physician
+314,Arpan singh chauhan,Kd hospital,Cgmc/9193-2019,intelmedico2609@yahoo.in,9009577177,Visiting counsultant,Ambikapur,497001,"Bihi badi, Amnikapur",General Physician
+315,Risabh gupta,Govt Distr. hospital,Cgmc/6789/2016,rishabh.rg660@gmail.com,9047622902,M.D Medicine,Ambikapur,497001,"C/o-Dr aryan gupta, Tribeni bhawan",Anesthesilogist
+316,DEEP KUMAR,DIST HOSPITAL SURAJPUR,CGMC/3106/2010,deepkumar32@gmail.com,9424254963,MEDICAL OFFICER,AMBIKAPUR,497001,PATPARIYA AMBIKAPUR,General Physician
+317,Avinash kumar,city hospital surajpur,CGMC/8855/2019,anatomya26@gmail.com,8709531722,Medical Officer,Surajpur,497229,bhaiyathaan road surajpur,General Physician
+318,Dr Mithlesh Minj,-,CGMC/3536/2011,mithleshminz@gmail.com,7587445836,Medical Officer,Ambikapur,497001,Near RTO Office Ambikapur,General Physician
+319,Ritesh Singh,Govt Hospital Bhagwanpur,CGMC/8395/2018,drsingh0707@gmail.com,7000682799,Medical Officer,Ambikapur,497001,Near malviya bandh Namnakala ambikapur,Anesthesilogist
+320,Gopal Krishna Damle,Medical College Ambikapur,CGMC/1613/2018,gk4145478@gmail.com,7000529450,Assistant professor,Ambikapur,497001,MG Road Ambikapur,General Physician
+321,Rajni Kishori Ekka,Govt Dist Hospital Ambikapur,CGMC/3763/2011,psthakur23@gmail.com,9179304137,Medical Officer,Ambikapur,497001,Fundurdihari Ambikapur,General Physician
+322,Samvedna Singh,Govt Dist Hospital Ambikapur,CGMC/8790/2019,dr.samvedna36@gmail.com,8810530474,Medical Officer,Ambikapur,497001,Namnakala Ambikapur,General Physician
+,,,,,,,,,,
+323,Ram sevak Markam,Dist Hospital,CGMC/183/2004,dr.markam2012@gmail.com,7000836120,Medical Officer,Surguja,497229,"Banglow no 28 third Lane Sai Residential Colony
+Surguja",General Physician
+324,Ajay kumar Sahu,Dist Hospital,CG/MC/7511/2017,ajaykumarsahu109@gmail.com,7000228503,Medical Officer,Surajpur,497229,tripureshwar ramanujnagar,General Physician
+325,Nandkishore Mandpe,Dist Hospital,CG/MC/11216/2021,mandpenandkishor@gmail.com,9754002043,CMHO,Mahasamund,493445,Old Civil Hospital Raipur Road,General Physician
+326,Bimal Chandra Paikra,Dist Hospital,CG/MC/2626/2009,mazumdarrakesh285@gmail.com,6263612207,Medical Officer,Ambikapur,497001,Bhatti road kedarpur ambikapur,General Physician
+327,Ajeet Kumar Divan,Dist Hospital,CG/MC/8259/2018,ajeetdivan497@gmail.com,9399041790,Medical officer,Surajpur,497229,transit Hospital turiyapur,General Physician
+328,Dr. BALKRISHNA TIWARI,DISTRICT HOSPITAL SURAJPUR,CGMC/5131/2014,drbktiwari@gmail.com,8770444920,Medical Assistant Surgeon,SURAJPUR,497229,District Hospital Surajpur ( Chhattisgarh ),General Surgeon
+329,Dr.Rajesh kumar,Dist.Hospi.Surajpur,CGMC/4301/2012,drrajeshpainkra@gmail.com,8718049006,Doctor,Surajpur,497229,District Hospital Surajpur,General Physician
+330,Dr. Deepshikha lakra,District hospital surajpur,CGMC/8230/2018,deepshikha.lakra12@ gmail.com,9691918388,Doctor,Surajpur,497229,District hospital surajpur 497229,General Physician
+331,Dr.Ajay Kumar Markam,District Hospital Surajpur,CGMC 2812/2010,ajaymarkam2@gmail.com,9826667411,Doctor,Surajpur,497229,District Hospital Surajpur,General Physician
+332,Dr Rajesh shrestha,Chc pratappur,Cgmc2923/2010,rshrestha1705@gmail.com,8120966766,Doctor,Pratappur,497223,Chc pratappur,General Physician
+333,Dr. Vidya bhushan toppo,District hospital surajpur,CGMC/3678/2011,dsosurajpur@gmail.com,9617567993,Medical Assistant Surgeon,Surajpur,497229,District hospital surajpur,General Surgeon
+334,Dr. Ashutosh Koshale,Chc bishrampur,Cgmc /8727,Ashubekindforevery1@gmail.com,8959232393,Doctor,Bishrampur,497229,Chc y,General Physician
+335,Dr seema Gupta,DH surajpur,CGMC/4102/2012,seemasarkar8@gmail.com,8085753299,Doctor,Surajpur,497229,District hospital surajpur,General Physician
+336,DR KAPIL DEV PAIKRA,P H C chendra,CGMC/3672/2011,kapilpaikra7@gmail.com,9407741984,Doctor,Bhatgaon,497235,PHC chendra block odgi surajpur,General Physician
+337,Sandeep kumar Bhagat,District Hospital surajpur,CGMC/4346/2012,Sandeepbhagat64@gmail.com,8889107060,Doctor,AMBIKAPUR,497002,District Hospital surajpur,General Physician
+338,MANGESH CHANDEWAR,District hospital SURAJPUR,CGMC 9705/2020,dr.mangesh24101988@gmail.com,7721835545,Doctor,SURAJPUR,497229,District hospital SURAJPUR,General Surgeon
+339,DrLalit Singh,"GOVERNMENT HOSPITAL CHC
+PRATAPPUR",CGMC 6406/2015,lalitkumarsingh10@gmail.com,9753214098,Medical Assistant Surgeon,PRATAPPUR,497223,CHC PRATAPUR,General Surgeon
+340,Dr harshvardhan sharma,district hospital surajpur chattisgarh,CGMC6723/2016,sharma.harshvardhan858@gmail.com,9977461614,Medical Assistant Surgeon,surajpur,497229,district hospital surajpur,General Surgeon
+341,SACHIN JAISWAL,District hospital surajpur,CGMC/10438/2020,supersj100@gmail.com,9589583456,Doctor,Surajpur,497229,District hospital surajpur,General Physician
+342,Dr Raj singh chouhan,District hospital surajpur,CGMC 10583/2020,drrajsinghchouhan@gmail.com,9907848814,Doctor,Surajpur,497229,"District hospital,surajpur",General Physician
+,,,,,,,,,,
+343,"Dr MAHAMAYA PRATAP
+SINGH",DISTRICT HOSPITAL SURAJPUR,CGMC/9752/2020,mhtsngh11@gmail.com,7987259064,Doctor,SURAJPUR,497229,DISTRICT HOSPITAL SURAJPUR,Cardiologist
+344,Rohit Jatra,MCH wing District hospital Surajpur,CGMC 9430/2019,rohitjatra@gmail.com,8120081789,Doctor,Surajpur,497229,MCH wing District hospital Surajpur,General Surgeon
+345,Vijay kumar chouhan,"Community health centre odgi, Surajpur
+,c.g.",CGMC/8238/2018,vijaychouhan511990@gmail.com,8103556724,Doctor,Surajpur,497229,"Community health center odgi, Surajpur,cg",Orthopaedist
+346,Pravda Chaturvedi,District Hospital Surajpur,CGMC/8517/2018,cpravda17@gmail.com,9454353999,Doctor,Surajpur,497229,"District Hospital, Nawapara, Surajpur, CG",Opthalmologist
+347,Dr ASHOK KUMAR YADAW,"COMMUNITY HEALTH CENTER
+BISHRAMPUR",CGMC10653/2020,aanshuthetear@gmail.com,8120908342,Doctor,Bishrampur,497226,Near bus stand bishrampur,General Physician
+348,Ankit Kumar Paul,District hospital,CGMC/8543/2018,ankitpaul279@gmail.com,9589503848,Doctor,Surajpur,497229,Surajpur,General Physician
+349,RUPESH KUMAR GUPTA,Lifeline hospital ambikapur,CGMC/9795/2020,rupeshkgupta111@gmail.com,7877357961,Hospital,Ambikapur,497001,Lifeline hospital ambikapur,General Physician
+350,Dr.Rakesh singh,Community health center bhaiyathan,CGMC6561/2016,drrakesh5688@gmail.com,7697332223,Doctor,Surajpur,497229,"Community health center ,bhaiyathan,dist -
+surajpur",ENT Specialist
+351,Swapnil Kumar Gupta,district hospital surajpur,cgmc 6871/2016,swaimagine@gmail.com,9074901228,Doctor,surajpur,497229,district hospital surajpur,Pediatrician
+352,Dr. Surendra Kumar Gupta,District Hospital Balrampur,C.G.M.C. 10317/2020,ramswrup90@gmail.com,9754786209,"Block Medical Officer, Balrampur",Wadrafnagar,497225,"Vill-Amdiha PO- Bartikalan TEH- wadrafnagar Distt-
+Balrampur CG",General Physician
+353,Nikhil Kumar Dubey,Govt Hospital,CGMC/11299/2021,monty4462@gmail.com,7415843397,Medical Officer,Ambikapur,497001,Pratappur Naka Ambikapur,General Physician
+354,Nikhil Kumar Dubey,Govt Hospital,CGMC/11299/2021,monty4462@gmail.com,7415843397,Medical Officer,Ambikapur,497001,Pratappur Naka Ambikapur,General Physician
+355,Amit Kumar Prasad,Doctor house,CGMC6231/2015,ameet1p@gmail.com,7974629600,Doctor,Mahasamund,493445,"Shanti Niwas House no20 behind BJP Office,
+BTI Road ,Mahasamund",General Surgeon
+356,Dr. Mini Varghese,"Our Lady of Providence hospital, Basna",2418/09,miniv2003@gmail.com,7089843423,Hospital,Basna,493554,"Our Lady of Providence hospital, near Bus stand,
+Basna P.O, mahasamund dt, chhattisgarh",General Physician
+357,DR BHUPAT RAM MALLIK,CHC- BASNA,2944,mallikbhupat@gmail.com,8120291910,Doctor,BASNA,493554,CHC-BASNA,General Physician
+358,"DR.VIJAY ANAND KUMAR
+KOSARIA","DR.KOSARIA POLY CLINIC
+SARAIPALI",CG.M.C.6607 CGMP6794,drvakkosaria6607@gmail.com,9926965460,Doctor,SARAIPALI,493558,"AT/PO- SARAIPALI DIST- MAHASAMUND
+CG.493558",General Physician
+359,"DR.MANJEET SINGH
+CHANDRASEN",RLC HOSPITAL MAHASAMUND,CGMC 6790,rlcmh25@gmail.com,7566105001,Doctor,"MAHASAMUN
+D",493445,RAIPUR ROAD MAHASAMUND,General Surgeon
+360,Dr Revendra sahu,"CHC bagbahara, dev Arogya clinic",CGMC 4443,revendrasahu8630@gmail.com,6261128799,Medical Assistant Surgeon,Bagbahara,493449,Dev Arogyam Clinic main road Bagbahra,General Surgeon
+361,Dr Lekh Ram Chandrakar,Dr Lekh Ram Chandrakar,5833,drlekramchandrakar@gmail.com,9826131102,Private Practice,Mahasamund,493445,"Dr Lekh Ram Chandrakar bagbahara road near
+barranca chowk Mahasamund Chhattisgarh",General Physician
+362,DR. G.L. CHANDRAKAR,EX MEDICAL OFFICER,2542,drglchandrakar.msmd@gmail.com,9425204293,Doctor,"MAHASAMUN
+D",493445,RAIPUR ROAD MAHASAMUND,
+,,,,,,,,,,
+363,Dr Mahendra Choudhary,CHC Pithora,CGMC 4994/2013,dr.mahendrachoudhary@gmail.com,9644805090,Doctor,Pithora,493551,CHC Pithora,General Physician
+364,Ravikant Singh Rathore,District Hospital korba CG,CGMC 4878/2013,rathoreji123@gmail.com,9617570110,MBBS,KORBA,495677,"CHARPARA KHARSIYA RAIGARH CG
+496661",General Physician
+365,Dushyant kumar Singh,"Devi Ramshilya Trust Charitable Hospital
+Pakariya Kartala",CGMC 6058/2015,drtch21@gmail.com,9424166244,Medical Officer,KORBA,495674,"House No 230 Pondibahar Kosabadi Korba CG
+495677",General Physician
+366,Dr. Chywan raj,Astha clinic,8266,SEWAINDANEINDANE@YAHOO.IN,9424146217,Clinic,Katghora,495445,Ward no 8 puchha para katghora,General Physician
+367,Harish Soni,city centre Hospital,CGMC 5909/2015,drharishsoni29@gmail.com,8761897816,MD Medicine,Korba,495677,RC 5 RSS NAGAR KORBA,General Surgeon
+368,Rudrapal Singh,Govt Hospital Katghora,CGMC 5367/2014,rudrapal75@gmail.com,9926172819,MBBS,Korba,495445,"179 KH WARD NO 6 RAJIV NAGAR
+KATGHORA KORBA CG",General Physician
+369,Dr. NANDINI DEEP,GAYATRI MEDICALS BALCO,11046/1991,dr.nandinideep63@gmail.com,9981994693,MBBS,Korba,495684,"Q NO 46 SECTOR 1 TYPE C BALCO
+TOWNSHIP BALCO KORBA",General Physician
+370,MONIKA EKKA,PHC KORBA,CGMC 8251/2018,monikaekka66@gmail.com,7987951882,MBBS,KORBA,495445,"WARD NO 3, BUS STAND BINJHRA KORBA
+CG",General Physician
+371,MADHU ANAND BANJARE,Samudayik swasthya kendra patarhi,CGMC 8639/2019,madhu.anand15@gmail.com,9810742261,MBBS,KORBA,495334,"HOUSE NO 46G, RAWAN BHATHA ,
+THAKKAR BAPA WARD, MUNGELI CG",Neurologist
+372,AMITESH KUMAR SINGH,Samudayik swasthya kendra patarhi,CGMC 8206/2018,arcanr44@gmail.com,8770808177,MBBS,KORBA,495684,TILAIDAND AJGARBAHAR KORBA CG,Orthopaedist
+373,DEEPAK KUMAR SINGH,"SAMUDAYIK SWASTHYA KENDRA,
+PODI UPRODA KORBA",CGMC 3026/2010,dipakksingh231@gmail.com,8817580950,BMO(MBBS),KORBA,495678,"Rani road Rajgadhi ward 4 korba town Pali
+KORBA CG",Anesthesilogist
+374,"PARMESHWAR SINGH
+KANWAR",PHC BANKIMONGRA,CGMC 11219/2021,drpskanwar7@gmail.com,9827952370,MBBS,KORBA,495447,"MADWADODA BANKIMONGRA KORBA
+CG",General Physician
+375,Dr.Hare Ram Prasad,Prasad Netralaya Korba,CHMC/4316/2012,drhrprasadkrb@rediffmail.com,7000256312,Medical Surgeon,Korba,495677,"17,C1C2,MP NAGAR KORBA",General Surgeon
+376,"DR VIKAS KUMAR
+AGRAWAL",AGRAWAL CLINIC,CGMC/823/2007,drvagrawal68@gmail.com,9425204737,Private Practice,RAIPUR,492009,"AGRAWAL CLINIC, BEHIND OLD
+MUNICIPAL HOSPITAL, SHUKRAWARI
+BAZAR, GUDHIYARI, RAIPUR (CG)",General Physician
+377,C. L. RATREY,SAMUDAYIK SWASTHYA KENDRA PALI,CGMC/6077,bmonhmpal@gmail.com,9340061409,BMO(MBBS),KORBA,495449,"14(2) DR SHYAMA PRASAD MUKHARJI, PALI, PALI,
+KORBA,CG",Orthopaedist
+378,Dr Brijlal,"Dr Brijlal Clinic, Gopalpur, Darri, Korba",CGMC 4296/2012,doc.briz@gmail.com,7988215359,MBBS,KORBA,495677,"H NO 86/1 MAIN ROAD GOPALPUR DARRI KORBA CG
+(495450)",Opthalmologist
+379,Sandeep Patonda,Dhamtari Christian Hospital dhamtari,CGMC/4422/2012,sandeeppatonda0001@gmail.com,9425516222,Medical Superintendent,Dhamtari,493773,"Dhamtari Christian Hospital H no 44 dhamtari
+CG",Pediatrician
+380,Dilip Malagar,Dhamtari Christian Hospital dhamtari,CGMC/4436/2012,dilipmalagar0006@gmail.com,9826520168,Deputy Medical Suprintendent,Dhamtari,493773,"Dhamtari Christian Hospital H no 43 dhamtari
+CG",General Physician
+381,Neeraj Netam,Dhamtari Christian Hospital dhamtari,CGMC/2483/2009,neerajnetam0005@gmail.com,9009968111,Consultant,Dhamtari,493773,"Dhamtari Christian Hospital H no 21 dhamtari
+CG",Pediatrician
+382,Ashish Rocky,Dhamtari Christian Hospital dhamtari,CGMC/3997/2012,ashishrocky0008@gmail.com,7049585413,Consultant Physician,Dhamtari,493773,"Dhamtari Christian Hospital H no 27 dhamtari
+CG",General Physician
+,,,,,,,,,,
+383,Smit Kumar,Dhamtari Christian Hospital dhamtari,CGMC/5062/2013,drsmitkumar0009@gmail.com,9407930855,Consultant Surgeon,Dhamtari,493773,"Dhamtari Christian Hospital H no 28 dhamtari
+CG",General Physician
+384,Praharsh Cladius,Dhamtari Christian Hospital dhamtari,CGMC/2802/2010,praharshcladius00010@gmail.com,9425267718,Consultant Surgeon,Dhamtari,493773,"Dhamtari Christian Hospital H no 22 dhamtari
+CG",General Physician
+385,Satish Sahu,Rajnadgaon CMHO(Retired),CGMC/5854/2014,satishdmt1939@gmail.com,9425209046,Doctor (Clinic),Dhamtari,493773,"Infront of laxmi niwas rudri road gokulpur
+dhamtari",General Surgeon
+386,Mehtab Ahmed,Dist. Hospital Dhamtari,CGMC/9471/2019,mehtab.doc@gmail.com,7013643666,Medical Officer,Dhamtari,493773,Usmaniya Bada Near Gol Bazar Dhamtari,General Physician
+387,Harsha Jichkar,Dist. Hospital Dhamtari,CGMC/9991/2020,jichkarharsha19@gmail.com,8519045733,Medical Officer,Dhamtari,493773,Panchmukhi hanuman nagar ratnabandha,Cardiologist
+388,Diwarkar Gajpal,Dist. Hospital Dhamtari,CGMC/10313/2020,diwakargajpal@gmail.com,7898543426,Medical Officer,Dhamtari,493773,Panchmukhi hanuman nagar ratnabandha,ENT Specialist
+389,Saroj Kumar Saha,Clinic,CGMC/5564/2014,sarojkumarsahu0003@gmail.com,9425504594,General Practice (MBBS),Dhamtari,493773,Near Power House Raipur Road Dhamtari,General Physician
+390,C L Sahu,Clinic,CGMC/3092,clsahu00011@gmail.com,9109032244,Child Clinic,Dhamtari,493773,Ghadi Chowk Near Suraj Medical Dhamari,General Physician
+391,Shanti Lal Jain,Clinic,CGMC/1650/08,nidan.path.lab.dmt@gmail.com,7000272105,Dr Shanti Lal Jain Clinic,Dhamtari,493773,Nidan Pathology Lab,General Physician
+392,Dr Kritika Nath,Chatterjee hospital,CGMC 5739/14,drkritikanath@gmail.com,7057689289,Private Practice,Dhamtari,493773,A 29 Amaltaspuram rudri road,Gynaecologist
+393,Dr praphul Kumar painkra,Dgamtari hospital,CGMC 376/05,Dhamtarihospital@gmail.com,9752722279,Private Practice,Dhamtari,493773,"Dhamtari hospital Near ambedkar chowk Rudri
+road dhamtari",Child Specialist
+394,UMESH LOHANA,"LOHANA DAY CARE& DIGITAL
+XRAY CLINIC",CGMC 1771/2008,burj10naha@yahoo.com,9827168527,Clinic,Dhamtari,493773,"CHAMELI CHOWK SADAR BAZAR
+DHAMTARI",General Physician
+395,Devendra Kumar Ture,"O/o Chief Medical and health officer Dist.
+Hospital Dhamtar",CGMC 1359,devendrakumarture0002@gmail.com,9425592836,Surgical Specialist,Dhamtari,493773,"O/o Chief Medical and health officer Dhamtari
+Near Dist. Hospital Dhamtari",General Surgeon
+396,Jagriti Chandak,Dist. Hospital Dhamtari,CGMC/99/2020(Provisional,jagriti.chandak@gmail.com,7587235625,Medical Officer,Dhamtari,493773,Sorid Nagar Behind kali mandir dhamtari,General Physician
+397,Aaron S Das,Dhamtari Christian Hospital dhamtari,PMC/45874/2015,aeronsdas0007@gmail.com,9915250845,Consultant Physician,Dhamtari,493773,"Dhamtari Christian Hospital H no 25 dhamtari
+CG",General Physician
+398,Varinder Nanda,Clinic,MMC/7110,varindernanda0004@gmail.com,9827933800,Nanda Clinic,Dhamtari,493773,Rantabandha chowk Bastar road dhamtari,Pediatrician
+399,Shrishti Chandraker,Civil Hospital Nagari Dhamtri,CGMC 9922/2020,shrishtichandraker04@gmail.com,7566279034,Medical Officer,Dhamtari,493778,"ANANYA CLINIC BARPALI CHOWK
+CHAMPA JANJGIR",General Physician
+400,"DR LOKENDRA KUMAR
+LAGAR",ANANYA CLINIC CHAMPA,MCI/10-37618,drlklagar@gmail.com,9713297500,M.O,CHAMPA,495671,S.J LAB ABOVE MANOJ BAKERY JANJGIR,Anesthesilogist
+401,"DR ASHWINI KUMAR
+RATHORE",S. J. LAB JANJGIR,CGMC/3247/2011,ashwini.rathore12@gmail.com,9826124311,M.D PATHO,JANJGIR,495668,"MODI MEMORIAL HOSPITAL MAIN ROAD
+JANJGIR",General Physician
+402,"DR SANTOSH KUMAR
+MODI","MD MODI MEMORIAL HOSPITAL
+MAIN ROAD JANJGIR",CGMC/5208/2014,dr.santoshmodi@reddiffmail.com,9300838000,MD PHYSICIAN,JANJGIR,495668,"BESIDE MADAN LAL PETROL PUMP
+JANJGIR",General Physician
+,,,,,,,,,,
+403,DR ASHUTOSH MISHRA,"MISHRA MULTISPECIALITY
+HOSPITAL JANJGIR",CGMC/448/05,ms.drashutoshmishra@rediffmail.com,9425230511,DIRECTOR MD,JANJGIR,495668,"AKALTARA ROAD NETAJI CHOWK
+JANJGIR",General Physician
+404,DR UMASHANKAR GUPTA,DR GUPTA CHILD CLINIC JANJGIR,CGMC/5570/2014,drusgupta1803@gmail.com,9425537767,Medical Officer,JANJGIR,495668,"JAIJAIPUR CHOWK BARADWAR SAKTI
+JNAJGIR",General Physician
+405,DR RAM KHILAWAN RAJ,"Community Health Center Sakti janjgir
+495687",CGMC 290/04,dr.rkraj1967@gmail.com,8719959810,Medical Officer,"BARADWAR
+SAKTI",495687,Government House manikchauri road Pipariya,General Surgeon
+406,DR. ANUPAMA SINGH BANFA,SHREE NURSING HOME JANIGR,CGMC/11233/2021,anupamasingh908@gmail.com,8090343713,Medical Officer,JANJGIR,495668,"CHANDRABHAGA BHAWAN LINK ROAD
+JANJGIR-495668",Neurologist
+407,Vinod Chandravanshi,Community Health Center Pipariya,CGMC 8100/2018,vinodchandrawanshi4@gmail.com,7987923230,Doctor,Kawardha,491995,"MEGH HOSPITAL NEAR GAYTRI MANDIR
+KAWARDHA",General Physician
+408,Dr. Mohan Jain,Megh Hospital Kawardha,CGMC 4362/2012,meghclinic@gmail.com,9425241550,Private Practice,KAWARDHA,491995,Near bas stand kawardha,General Physician
+409,Dr kishor Kumar Sahu,Govt hospital narayanpur,Cgmc 7300/2017,kishordx24@gmail.com,7879339748,Medical Deputy Surgeon,"Kawardha
+Chhattisgarh",491995,"Qt.No.F1 Hospital colony kawardha, Distt. -
+KABIRDHAM, CG.",General Surgeon
+410,DR SALIL MISHRA,Govt Distt. Hospital kawardha,C.G.M.C./664/2007,drsalilmishra@gmail.com,7587112930,Doctor,Kawardha,491995,rauha kawardha road pandariya,Child Specialist
+411,ramkishun Chandravanshi,Chandravanshi clinic,3744,drrkchandravanshi57@gmail.com,9893825618,Clinic,pandariya,491559,At Bicharpur Dist- Mungeli Thana Lormi,General Physician
+412,Dr Purushottam Singh Rajput,District Hospital kabirdham,CGMC 6049/2015,pururaj2010@gmail.com,,Medical Officer,Kawardha,491995,Chc manendragarh,General Physician
+413,Dr Vikas kumar poddar,CHC manenedragarh,CGMC/2013/4545,vickymymail@gmail.com,9770385300,Doctor,Manendragarh,497442,chhoti aani rampur baikunthpur distt korea c.g.,Cardiologist
+414,Dr. anit baxla,District Hospital BAIKUNTHPUR,CGMC 10195/2020,baxlaanit355@gmail.com,8305307321,Medical officer,Baikunthpur,497335,"f 2 premabag colony in fornt of janpad office
+baikunthpur distt korea c.g.",General Physician
+415,Dr. Ashok kumar singh,District Hospital BAIKUNTHPUR,CGMC 1285/2008,ashok.kumarsingh349@gmail.com,9926944993,pgmo,Baikunthpur,497335,gadhelpara baikunthpur distt korea c.g.,Anesthesilogist
+416,Dr. D.k. chikanjuri,District Hospital BAIKUNTHPUR,CGMC 3127/2010,dkchikanjuri@gmial.com,9425256793,md patho,Baikunthpur,497335,"Vill+p.o.-Kelhari, Block- Manendragarh, Dost. -
+Koriya (C.G.)",General Physician
+417,Dr. Mansoor Alam,CHC Kelhari,CGMC21/2020,mansooralam95@gmail.com,8461090305,Doctor,Kelhari,497442,ward no 20 junapara baikunthpur korea,General Physician
+418,shubham singh yadav,private,CGMC /9934/2020,betwian.122@gmail.com,7999560012,MBBS,baikunthpur,497335,bachhara podi khadgawa korea,Radiologist
+419,jitendra kumar singh,private,CGMC /291/2020,jk071315@gmail.com,7987144984,MBBS,bachhara podi,497449,"CHINDAND OPPOSITE TO COLLECTRATE
+KOREA",Pediatrician
+420,DR. A K KARAN,DIST HOSPITAL BAIKUNTHPUR,4544,drkarankoreanvbdcp@gmail.com,9926130724,MBBS,"BAIKUNTHPU
+R",497335,"ward no 16 near electric office manendragarh
+(C.G.)",General Physician
+421,Dr kiran kishor,CHC manendragarh Hospital,CGMC /677/2007,kirankishor@gmail.com,9340521605,MBBS,manendragarh,497442,"Minj Clinic Near shanti bhawan Church Raigarh
+Road Jashpur C.G.",Opthalmologist
+422,"Dr. shishir Bridhi Chandra
+Minj","Minj Clinic Near shanti Bhawan Church
+Raigarh Road Jashpur",C.G.5004,shishirminj96@gmail.com,9425252996,I/C Minj Clinic,Jashpur,496331,Kunkuri Th.- Kunkuri Distt. Jashpur C.G.,General Surgeon
+,,,,,,,,,,
+423,Dr. Sangita Tirkey,C.H.C. Kunkuri Distt. Jashpur,CG3758,dr.sangitatirkey94@gmail.com,9131492001,Medical Officer,Kunkuri,496225,"Dhodhibahar P.O. Bandarchuwan The.- kunkuri
+Disst. Jashpur C.G.",General Physician
+424,Dr. Chhakesh Kumar Sai,C.H.C. Kunkuri Distt. Jashpur,CGMC0008,chhakeshkumars@gmail.com,9424184238,Medical Officer,Kunkuri,496225,"Isha Clinic Remte Road Kunkuri Distt.- Jashpur
+C.G.",General Surgeon
+425,Dr. Laxmikant Apat,M.O.D.H.Jashpur,CGMC9260/2019,laxmikant14apat@gmail.com,9303679847,Medical Officer,Jashpur,496334,"H.N. 117 Vill.- Mahkultoli South, Charaidand
+Jashpur Distt. Jashpur 496334",General Physician
+426,Dr. Dayakishore Xess,District Jail Jashpur,13347,xessdayakishor@gmail.com,9424192263,Medical Officer,Jashpur,496331,Housing Board Colony Jashpur,General Surgeon
+427,Dr. Shashikant Snehi,P.H.C. Bagbahar,121/2004,drsksnehi@gmail.com,7879872946,Medical Officer,Bagbahar,496220,Bagbahar PHC Bagbahar District Jashpur,General Physician
+425,Phool Chandra Kujur,Isha Clinic Kunkuri Distt. Jashpur,C.G.M.C.5811,kujurpc67@gmail.com,9425251694,M.S.(General Surgeon),Kunkuri,496225,Civil Hospital Colony Jashpur Road Pathalgaon,General Surgeon
+426,Dr. Rajendra kumar Nishad,"Civil Hospital Colony Jashpur Road
+Pathalgaon",C.G.MC 8153/2018,rajennishad1991@gmail.com,9340128226,MBBS,Pathalgaon,496118,Purani Toli Jashpur Distt. Jashpur C.G.,Cardiologist
+427,Dhirendra Kumar Agrawal,District Hospital Jashpur Distt. Jashpur,CGMC 3324,dhirendraagarwal73@gmail.com,9329639062,Medical Officer,Jashpur,496331,"bemetara health care hospital bemetara, near new
+bus stand tripathi complex, bemetara",General Physician
+428,Dr Rupeshwar singh verma,bemetara health care hospital,CGMC 9989/2020,dr.rupeshwar1102@gmail.com,9821227004,Doctor,bemetara,491335,"Raipur-road, behind KK dhaba, ward no.10,
+Bemetara.",Radiologist
+429,Dr pawan kumar Ghritlahare,"Palak Hospital n Diagnostic centre,
+Bemetara",CGMC 60/2002,drpg25@gmail.com,9424214861,Hospital,Bemetara,491335,"Q.NO. 5 OLD HOSPITAL COMPOUND NEAR
+SIGNAL CHOWK BEMETARA",Anesthesilogist
+430,DR.JYOTI A. JASATHI,DISTRICT HOSPITAL BEMETARA,CGMC 3756/11,cuteanserina@gmail.com,9407413232,Medical Assistant Surgeon,BEMETARA,491335,GANDHI CHOWK BEMETARA,General Physician
+431,Dr NITESH CHOUBEY,SELF CLINIC,CGMC 6599/2016,NITESHCHB@GMAIL.COM,7898089300,Doctor,BEMETARA,491335,"new bus stand kawardha road, tripathi complex
+bemetara",Neurologist
+432,"BODHESHWAR SINGH
+VERMA",DISTRICT HOSPITAL BEMETARA,CGMC/4583/2013,drbodheshwar@gmail.com,9685436755,Doctor,bemetara,491335,"SINGHAURI, DURG ROAD, BEMETARA,
+DIST- BEMETARA(C.G.)",General Physician
+433,Dr. Vinay Kumar Tamrakar,Self Clinic,3511 Bhopal Medical Council,drvinaytamrakar@yahoo.com,9425561686,Doctor,BEMETARA,491335,"NAYA PARA NEAR SMILE STORE
+JAGDALPUR",Cardiologist
+434,SHAILENDRA BHAGAR,MAHARANI HOSPITAL JAGDALPUR,CGMC/9566/2019,s_cool17@Rediffmail.com,9177531122,MEDDICAL OFFICER,JAGDALPUR,494001,VILL+PO. MARKEL TH. JAGDALPUR,General Physician
+435,GAJENDRA SETHIYA,MAHARANI HOSPITAL JAGDALPUR,CGMC/8578/2018,Gajendrasethiya786@gmial.com,8770546733,MEDDICAL OFFICER,JAGDALPUR,494001,"BEHIND PRIMARY HEALTH CENTER
+ADAWAL",General Surgeon
+436,TENSINGH NAG,"PRIMARY HEALTH CENTER
+ADAWAL",CGMC/1165/2007,nagdrtsingh@gmail.com,9424281539,MEDDICAL OFFICER,JAGDALPUR,494001,"FLAT NO A/101 SUNHERETAGE SUN CITY
+LALBAGH JAGDALPUR",General Physician
+437,SANJAY BASAK,DISTRICT HOSPITAL KONDAGAON,CGMC/1156/2007,dr.sanjaybasak@gmail.com,7999918973,CIVIL SURGEON,JAGDALPUR,494001,NEW BUS ROAD JAGDALPUR,General Surgeon
+438,PRADEEP KUMAR PANDE,BASTAR SEWA HOSPITAL,CGMC-1327/1981,drpradeeppande@gmail.com,9425261452,ASSOCIATE PROFESSOR,JAGDALPUR,494001,"BESIDE HOTAL POONAM PRATAPGANJ
+WARD JDP",General Physician
+439,HEMANT KUMAR,"DR. HEMANT PATHOLOGY LAB
+JAGDALPUR",CGMC/874/2007,drhemantjdp@gmail.com,9425261409,MBBS DCP,JAGDALPUR,494001,"Dr. Naresh Jain,Vikas Nagar Kondagaon",Opthalmologist
+,,,,,,,,,,
+440,Dr. Naresh chand jain,Dr. Naresh Jain Clinic,C.G.M.C. 5670/2014,ncjain.jain@gmail.com,9407717871,M.B.B.S. doctor,kondagaon,494226,District hospital kondagaon,Orthopaedist
+441,Dr Suraj Singh Rathore,District hospital kondagaon,4145,drsurajrathore@gmail.com,9907998446,Doctor,Kondagaon,494226,"Behind Shiv Temple, Bhagat Singh
+Ward,Kondagaon,C.G.",General Physician
+442,Dr. Divya Tiwari,District Hospital Kondagaon,CGMC 7231/2017,drdivyatiwari7474@gmail.com,9665640050,9665640050,Kondagaon,494226,"SARGIPAL PARA ,KONDAGAON (C.G.)",Pediatrician
+443,Mrs Kumud Kunwar,Kunwar Hospital,CGMC 2576/2009,kumudkunwar74@gmail.com,9424297112,"MBBS , MD (OBST & GYNAE
+2002)",KONDAGAON,494226,"h.no.-F-2 RES,aanganwadi,D.N.K.
+Colony,Kondagaon",General Physician
+444,Dr. Rudra kumar kashayap,District Hospital Kondagaon,C.G.M.C. 4653/2013,dr.rudrakashyap88@gmail.com,9039811413,"Block Medical Officer,Kondagaon",kondagaon,494226,"shivam health
+centre,Bhanupratappur,Dist.U.B.Kanker, CG",General Physician
+445,Harendra Kumar Baghel,District Hospital Kondagaon,C.G.M.C. 4160/2012,hk01baghel@gmail.com,7000818371,Medical officer,kondagaon,494228,"h.no. 03, ward no. 04 asptal gali, farasgaon",Opthalmologist
+446,Dr. B.S.THAKUR,Shivam health centre,30482010,dr.bhagwansinghthakur@gmail.com,9424107533,Doctor,Bhanupratappur,494669,CHC BHANUPRATAPPUR,General Surgeon
+447,Palash Sharma,CHC BHANUPRATAPPUR,101682020,spalash88@gmail.com,7000929602,Doctor,Bhanupratappur,494669,"CHC BHANUPRATAPPUR Dist- kanker
+494669",General Physician
+448,Anubhav Agrawal,CHC Bhanupratappur,8192019,Anubhav.aoks@gmail.com,8871309127,Doctor,"Bhanupratappur,
+Kanker",494669,"Doctor colony koylibeda ,dist kanker",ENT Specialist
+449,Dr parmeshwar sahu,"CHC koylibeda , dist kanker",74/2020,Parmeshwarsahu9191@gmail.com,7974312414,Doctor,Koylibeda,494665,RES COLONY KANKER,General Surgeon
+450,"DR. DEVENDRA KUMAR
+RAMTEKE",DMO KANKER,CGMC 4873/2013,dmokanker1@gmail.com,9926138424,Doctor,kanker,494334,Doctors quarter banglapara charama dist kanker,General Physician
+451,Dr Swati Dewangan,District Hospital,CGMC/4098/2012,swati.dewangan06@gmail.com,9993259653,District Hospital,kanker,494337,CHC BHANUPRATAPPUR Dist- kanker 494669,General Physician
+452,Dr Akhilesh Dhruw,CHC Bhanupratappur,CGMC/1593/2008,akhileshdhruw@gmail.com,9424225055,CHC Bhanupratappur,"Bhanupratappur,
+Kanker",494669,Near Vishnuborewell Kodabhat Kanker,General Physician
+453,Dr Manish Jain,Self,CGMC/4664/2013,drmjain22@gmail.com,8871264226,Self,kanker,494337,"House no 69pandit tola Purandih , Ramanujganj",General Physician
+454,Dr Rajeev Kumar Tiwari,District hospital Balrampur,CGMC 4526/2013,rajeev5188@gmail.com,7389274386,Medical Surgeon,"Balrampur-
+ramanujganj",497220,Masjid para Mahuadih shankargarh balrampur,General Surgeon
+455,Dr.md.aftab ansari,Dist.hospital balrampur,8002/2018,Dr.aftabansari92786@gmail.com,9516393280,Doctor,Balrampur,497119,"H No F-3,New Hospital Colony,C.H.C
+Ramanujgang (C.G)",Orthopaedist
+456,Vijay Kumar Rathore,Prathmik Swasthya Kendra Ramanujgang,CGMC/6721/2016,vijaykr584@gmail.com,7389194666,Medical officer,Ramanujgang,497220,Mission Road balrampur(C.G),General Physician
+457,Vikas,District Hospital Balrampur,CGMC/10316/2020,vpvikaspatel1994@gmail.com,7697005655,Medical officer,Balrampur,497119,"132,mahranv para,chaki, Ramanujgang(C.G)",General Physician
+458,Sharad Kumar Gupta,C.H.C Ramanujgang,CGMC/4578/2013,drsharadkumargupta@gmail.com,7000495139,Medical Surgeon,Ramanujgang,497220,"ward no 15 Power House road Ramanujgang
+(C.G)",General Surgeon
+,,,,,,,,,,
+459,Narad Kumar Gupta,Community Health Center Latori,CGMC/7617/2017,naradgupta104@gmail.com,8878813270,Medical officer,Ramanujgang,497220,"purandih,ramanujgang,balrampur(C.G)",General Physician
+460,Ramesh Kumar,District Hospital Balrampur,CGMC/6246/2015,purandih1985@gmail.com,7974652500,Medical officer,Ramanujgang,497119,"doctors colony Room no 02,balrampur(C.G)",General Physician
+461,Arun Kumar,District Hospital Balrampur,CGMC/4579/2013,arun00475@gmail.com,8120166639,Medical officer,Balrampur,497119,"ward no 15 Power House road Ramanujgang
+(C.G)",General Physician
+462,Sharad Kumar Gupta,C.H.C Ramanujgang,CGMC/4579/2013,drsharadkumargupta@gmail.com,7000495139,Medical Surgeon,Ramanujgang,497220,district hospital Balrampur C.G 497119,General Surgeon
+463,Shanti Nandan Minj,district hospital Balrampur,CGMC/9683/2020,shantinandan288@gmail.com,7999610603,Medical Officer,Balrampur,497119,,General Physician
+464,Dr. Sanjay Kashyap,Dantewada,C.G.M.L. 5712/2014,drsanjaykashyap@yahoo.com,9826876888,Medical Officer,Dantewada,494449,H. No. F/2 Jail Colony District Jail Dantevada,General Physician
+465,Dr. Amit Kumar Soni,District Jail Dantevada,CGMC 6708/2016,sonis12001@gmail.com,9170000000,Doctor,Dantewada,494449,,General Physician
+466,DR. M.K. Nayak,Dantewada,3952,drnayak.mk@gmail.com,9009331555,Child Specialist,Dantewada,494449,District Hospital,Pediatrician
+467,Dr Subhasish Mandal,District Hospital Dantevada,CGMC 4551/2013,subhasish2003@gmail.com,9669426677,Medical Officer,Dantewada,494449,Q No.-F2 District Hospital Campus Dantewada,General Physician
+468,Dr Madanala Janardhana Rao,Primary Health Center,MCI 94194,janu.medico@gmail.com,8686418186,Medical Officer,Dantewada,494553,Primary Health Center Bacheli Dantewada,General Physician
+469,Dr Abhay Pratap Singh Tomar,District Hospital,CGMC 5757/2014,sb08401@gmail.com,9131627968,Civil Surgeon,Bijapur,494444,H.NO F-4 GAD COLONY NARAYANPUR,General Surgeon
+470,TARUN KUMAR KANWAR,DISTRICT HOSPITAL BIJAPUR(C.G),C.G.M.C.4148/2012,csbijapur20@gmail.com,8839740421,M.S. (OPHTHALMOLOGY),BIJAPUR,494444,DISTRICT TRANSIT HOSTEL BIJAPUR,Opthalmologist
+471,DR. SHUBHANSHU GUPTA,ZILA HOSPITAL,C.G.M.C 8364/2018,shubhanshugupta82@gmail.com,8176981191,M.B.B.S. doctor,Narayanpur,494226,Dist. Hospital Narayanpur,General Physician
+472,DR. SURYAKANT,ZILA HOSPITAL,C.G.M.C 8555/2018,suryakantrangari007@gmail.com,7869248944,M.B.B.S. doctor,Narayanpur,494226,Dist. Hospital Narayanpur,Orthopaedist
+473,DR. M.K. Suryavanshi,ZILA HOSPITAL,C.G.M.C 3047/2010,drsuryavanshics@gmail.com,9425596183,M.B.B.S. doctor,Narayanpur,494226,Dist. Hospital Narayanpur,General Physician
+474,DR. RUPESH RAWATE,ZILA HOSPITAL,C.G.M.C 7421/2017,rupeshrawate@gmail.com,758739931,M.B.B.S. doctor,Narayanpur,494226,Dist. Hospital Narayanpur,General Surgeon
+475,DR.smirti Dewangan,ZILA HOSPITAL,C.G.M.C 201/2020,dsmirti101@gmail.com,9479024619,M.B.B.S. doctor,Narayanpur,494661,District Hospital,Neurologist
+476,DR. ADITYA KEKTI,ZILA HOSPITAL,C.G.M.C 4079/2012,aditya1987kekti@gmail.com,9424216353,M.B.B.S. doctor,Narayanpur,494662,H.NO Q-5 GAD COLONY NARAYANPUR,Pediatrician
+477,DR. DIKSHA TIWARI,ZILA HOSPITAL,C.G.M.C 13166/2022,drdikshatiwari40@gmail.com,9981670908,M.B.B.S. doctor,Narayanpur,494661,"H.NO 01 NEW BSNL OFFICE JAISHTHAM
+CHOWK NARAYANPUR",Cardiologist
+478,Dr Barse Mahadev,District Hospital,CGMC 3116/2010,barseml8@gmail.com,7587009329,Medical Officer,Sukma,494111,District Hospital,General Physician
+,,,,,,,,,,
+479,Dr Praveen Telli,District Hospital,CGMC 6662/2016,praveentelli@gmail.com,9491177257,Medical Officer,Sukma,494111,District Hospital,General Surgeon
+480,Dr Deepesh chandrakar,District Hospital,CGMC 6433/2016,deepeshchandrakar@gmail.com,8377891661,Medical Officer,Sukma,494111,Transit Hostel CHC konta,General Physician
+481,Dr. Ravi kumar jangde,District hospital sukma,CGMC/6925/2016,ravijangde.vartika@gmail.com,7000882702,Medical Officer,Sukma,494111,district hospital sukma,General Surgeon
+482,Raspal Singh Suman,community Health Center,CGMC 8499/2018,raspalsuman@gmail.com,7987087554,Medical Officer,Konta,494114,,General Physician
+483,Dr. Ravi kumar jangde,District hospital sukma,CGMC6925/2016,ravijangde.vartika@gmail.com,7000882702,Medical Officer,sukma,494111,district hospital sukma,General Physician
